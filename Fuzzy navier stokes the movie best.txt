@@ -1,0 +1,430 @@
+// === CYBER WHIRLPOOL RESCUE + FUZZY LOGIC WASHING MACHINE 3D ===
+// Story: Cyber washing machine drum -> Fuzzy Logic graph animates ->
+// Dirty clothes orbit between drum and vortex -> Boat orbits -> 
+// Stain core falls in -> Red laser traces path -> Boat dives -> 
+// Hero rescues core -> Fuzzy Defuzzification cleans clothes -> Boat escapes.
+
+float animTime = 0;
+final float MAX_TIME = 1300; 
+
+// Interactive Camera Variables
+float camRotX = PI / 3.5; 
+float camRotY = 0;
+
+// === FUZZY LOGIC VARIABLES ===
+int washMode = 0; // 0: Bed Sheet, 1: Silk Saree, 2: Underwear, 3: White Shirt
+float tSpin, tDepth; // Target Physics
+float cSpin = 0.05, cDepth = 600; // Current Physics
+float stainOpacity = 255;
+float fuzzyDirtLevel = 100.0; // 0 to 100
+float fuzzyWashPower = 100.0; // Defuzzified output
+
+// Stain Particle System
+int NUM_STAINS = 100;
+float[] stainR = new float[NUM_STAINS];
+float[] stainTheta = new float[NUM_STAINS];
+float[] stainSize = new float[NUM_STAINS];
+
+void setup() {
+  fullScreen(P3D); 
+  orientation(LANDSCAPE);
+  noStroke();
+  sphereDetail(4); 
+  
+  for(int i=0; i<NUM_STAINS; i++) {
+    stainR[i] = random(50, 500);
+    stainTheta[i] = random(TWO_PI);
+    stainSize[i] = random(3, 12);
+  }
+}
+
+void draw() {
+  background(5, 10, 20); // Cyber dark background
+  
+  lights();
+  ambientLight(50, 80, 100); 
+  // Cyber neon directional lights
+  directionalLight(0, 255, 255, -0.5, 1, -1);
+  directionalLight(255, 0, 255, 0.5, 1, 1);
+
+  updateFuzzyLogicEngine();
+
+  // 360-Degree Camera Rotation
+  pushMatrix();
+  translate(width / 2.0, height / 2.0 + 50, -850); 
+  rotateX(camRotX);
+  rotateY(camRotY);
+  translate(0, -cDepth * 0.25, 0); 
+
+  animTime += 1.5;
+  if (animTime > MAX_TIME) {
+    animTime = 0; 
+    stainOpacity = 255; 
+  }
+
+  drawCyberMachineDrum();
+  drawSwirlingClothes();
+  drawFuzzyFabricVortex();
+  drawStainParticles();
+  drawVictimRedLaserTrajectory(animTime);
+  drawBoatWakeTrail(animTime);
+  animateAndDrawScene(animTime);
+  popMatrix();
+  
+  drawFuzzyHUD(); 
+  drawFuzzyMembershipGraph();
+}
+
+// ==========================================
+// 1. FUZZY LOGIC CONTROLLER & DEFUZZIFICATION
+// ==========================================
+void updateFuzzyLogicEngine() {
+  switch(washMode) {
+    case 0: tSpin = 0.09; tDepth = 1200; break; // Hard Bed Sheet
+    case 1: tSpin = 0.03; tDepth = 300; break;  // Silk Saree
+    case 2: tSpin = 0.05; tDepth = 700; break;  // Underwear
+    case 3: tSpin = 0.07; tDepth = 950; break;  // White Shirt
+  }
+  
+  // Clean Action triggers during rescue phase
+  if (animTime > 540 && animTime < 700) {
+    stainOpacity -= 4.5; 
+  }
+  stainOpacity = constrain(stainOpacity, 0, 255);
+  
+  // Fuzzification: Map opacity to dirt level (0 to 100)
+  fuzzyDirtLevel = map(stainOpacity, 0, 255, 0, 100);
+  
+  // Membership Functions for Dirt
+  float mu_Low = max(0, min(1, (50 - fuzzyDirtLevel)/50.0));
+  float mu_Med = max(0, min(fuzzyDirtLevel/50.0, (100 - fuzzyDirtLevel)/50.0));
+  float mu_High = max(0, min(1, (fuzzyDirtLevel - 50)/50.0));
+  
+  // Defuzzification (Center of Gravity) - Outputs Wash Power
+  // Low Dirt -> 20 Power, Med -> 60 Power, High -> 100 Power
+  fuzzyWashPower = ((mu_Low * 20) + (mu_Med * 60) + (mu_High * 100)) / max(0.001, (mu_Low + mu_Med + mu_High));
+
+  // Smooth lerp for physical rendering
+  cSpin = lerp(cSpin, tSpin * (fuzzyWashPower/100.0 + 0.2), 0.02);
+  cDepth = lerp(cDepth, tDepth, 0.02);
+}
+
+void mouseDragged() {
+  if (mouseX > 250 && mouseY > 100) { // Avoid UI areas
+    camRotY += (mouseX - pmouseX) * 0.01;
+    camRotX += (pmouseY - mouseY) * 0.01; 
+  }
+}
+void mousePressed() {
+  if (mouseY < 80) {
+    washMode = int(map(mouseX, 0, width, 0, 4));
+    washMode = constrain(washMode, 0, 3);
+    animTime = 0; 
+    stainOpacity = 255;
+  }
+}
+
+// ==========================================
+// 2. CYBER DRUM & DIRTY CLOTHES
+// ==========================================
+void drawCyberMachineDrum() {
+  pushMatrix();
+  stroke(0, 255, 255, 40); // Cyan glowing wireframe
+  strokeWeight(2);
+  noFill();
+  
+  int drumRadius = 750;
+  int segments = 24;
+  
+  // Draw outer drum cylinder
+  for (int i = 0; i < segments; i++) {
+    float a1 = TWO_PI * i / segments;
+    float a2 = TWO_PI * (i + 1) / segments;
+    line(drumRadius * cos(a1), -100, drumRadius * sin(a1), drumRadius * cos(a1), 1300, drumRadius * sin(a1));
+    
+    // Horizontal hoops
+    for(int y = -100; y <= 1300; y += 280) {
+      line(drumRadius * cos(a1), y, drumRadius * sin(a1), drumRadius * cos(a2), y, drumRadius * sin(a2));
+    }
+  }
+  popMatrix();
+}
+
+void drawSwirlingClothes() {
+  int numClothes = 5;
+  for(int c = 0; c < numClothes; c++) {
+    pushMatrix();
+    // Orbit between whirlpool and outer drum
+    float clothAngle = (frameCount * cSpin * 0.5) + (c * TWO_PI / numClothes);
+    float r = 620 + sin(frameCount * 0.02 + c) * 40;
+    float y = 100 + c * 150 + sin(frameCount * 0.05 + c) * 100;
+    
+    translate(r * cos(clothAngle), y, r * sin(clothAngle));
+    rotateY(-clothAngle);
+    rotateZ(sin(frameCount * 0.05 + c) * 0.5);
+    
+    // Draw Cloth
+    fill(200, 220, 255, 180);
+    noStroke();
+    beginShape(QUAD_STRIP);
+    for(int i = -3; i <= 3; i++) {
+      float wave = sin(frameCount * 0.1 + i) * 15;
+      vertex(i * 25, -40 + wave, wave);
+      vertex(i * 25, 40 + wave, -wave);
+    }
+    endShape();
+    
+    // Draw Irregular Dirt Patches fading with stainOpacity
+    if (stainOpacity > 5) {
+      fill(40, 20, 10, stainOpacity * 0.8);
+      pushMatrix(); translate(-20, 10, 5); sphere(12); popMatrix();
+      pushMatrix(); translate(30, -15, -5); box(20, 15, 5); popMatrix();
+      pushMatrix(); translate(0, 20, 0); sphere(10); popMatrix();
+    }
+    popMatrix();
+  }
+}
+
+// ==========================================
+// 3. WHIRLPOOL & STAINS
+// ==========================================
+void drawFuzzyFabricVortex() {
+  pushMatrix();
+  strokeWeight(1);
+  int radSteps = 40, angSteps = 36;
+  
+  for (int i = 1; i < radSteps; i++) {
+    float r1 = i * 15, r2 = (i + 1) * 15;
+    beginShape(QUAD_STRIP);
+    for (int j = 0; j <= angSteps; j++) {
+      float a = map(j, 0, angSteps, 0, TWO_PI);
+      float spin = frameCount * cSpin;
+      float a1 = a + spin + (250.0 / max(r1, 1));
+      float a2 = a + spin + (250.0 / max(r2, 1));
+
+      float y1 = getWhirlpoolDepth(r1);
+      float y2 = getWhirlpoolDepth(r2);
+
+      // Cyber Colors
+      if ((i + j) % 5 == 0) {
+        fill(0, 255, 255, 120); stroke(255, 0, 255, 100);
+      } else {
+        fill(10, 20, 40, 240); noStroke();
+      }
+
+      vertex(r1 * cos(a1), y1, r1 * sin(a1));
+      vertex(r2 * cos(a2), y2, r2 * sin(a2));
+    }
+    endShape();
+  }
+  noStroke();
+  popMatrix();
+}
+
+float getWhirlpoolDepth(float radius) {
+  return map(pow(radius / 600.0, 0.55), 0, 1, cDepth, -20); 
+}
+
+void drawStainParticles() {
+  if (stainOpacity <= 0) return;
+  pushMatrix();
+  fill(80, 40, 20, stainOpacity); 
+  for(int i=0; i<NUM_STAINS; i++) {
+    stainTheta[i] += cSpin * (600.0 / max(stainR[i], 10)); 
+    float x = stainR[i] * cos(stainTheta[i]);
+    float z = stainR[i] * sin(stainTheta[i]);
+    
+    pushMatrix();
+    translate(x, getWhirlpoolDepth(stainR[i]) - 5, z);
+    box(stainSize[i] * (stainOpacity / 255.0));
+    popMatrix();
+  }
+  popMatrix();
+}
+
+// ==========================================
+// 4. TRAJECTORIES & SCENE MATH
+// ==========================================
+float getBoatR(float t) {
+  if (t < 250) return 400; 
+  if (t < 500) return map(cos(map(t, 250, 500, 0, PI)), 1, -1, 400, 110); 
+  if (t < 800) return 110; 
+  return 110 + pow((t - 800) * 0.35, 2.6); 
+}
+float getBoatTheta(float t) {
+  if (t < 800) return t * (cSpin * 0.7); 
+  return 800 * (cSpin * 0.7) - (t - 800) * 0.015; 
+}
+float getBoatX(float t) { return getBoatR(t) * cos(getBoatTheta(t)); }
+float getBoatZ(float t) { return getBoatR(t) * sin(getBoatTheta(t)); }
+
+float getVictimR(float t) {
+  if (t < 150) return 400; 
+  if (t < 350) return map(t, 150, 350, 400, 110); 
+  return 110; 
+}
+float getVictimTheta(float t) { return t * (cSpin * 0.9); }
+
+void drawVictimRedLaserTrajectory(float t) {
+  if (t > 150) {
+    noFill();
+    stroke(255, 20, 20, 90); strokeWeight(14); drawLaserPath(t);
+    stroke(255, 100, 100, 255); strokeWeight(4); drawLaserPath(t);
+    noStroke();
+  }
+}
+void drawLaserPath(float t) {
+  beginShape(LINE_STRIP);
+  for (float pt = 150; pt <= min(t, 600); pt += 3) {
+    float r = getVictimR(pt), th = getVictimTheta(pt);
+    vertex(r * cos(th), getWhirlpoolDepth(r) - 5, r * sin(th));
+  }
+  endShape();
+}
+void drawBoatWakeTrail(float t) {
+  noFill(); stroke(0, 255, 255, 200); strokeWeight(8); // Cyan cyber wake
+  beginShape(LINE_STRIP);
+  for (float pt = max(0, t - 60); pt <= t; pt += 2) {
+    vertex(getBoatX(pt), getWhirlpoolDepth(getBoatR(pt)) - 2, getBoatZ(pt));
+  }
+  endShape(); noStroke();
+}
+
+void animateAndDrawScene(float t) {
+  float boatX = getBoatX(t), boatZ = getBoatZ(t), boatR = getBoatR(t);
+  float boatY = getWhirlpoolDepth(boatR) - 5;
+  float pastX = getBoatX(max(0, t - 1.0)), pastZ = getBoatZ(max(0, t - 1.0));
+  float boatHeading = atan2(boatZ - pastZ, boatX - pastX);
+  float boatPitch = atan2(boatY - (getWhirlpoolDepth(getBoatR(max(0, t - 1.0))) - 5), dist(pastX, pastZ, boatX, boatZ)); 
+  float boatRoll = atan2(getWhirlpoolDepth(dist(0, 0, boatX + cos(boatHeading + HALF_PI) * 15, boatZ + sin(boatHeading + HALF_PI) * 15)) - getWhirlpoolDepth(dist(0, 0, boatX + cos(boatHeading - HALF_PI) * 15, boatZ + sin(boatHeading - HALF_PI) * 15)), 30); 
+
+  boolean victimInWater = false;
+  float vicGX = 0, vicGY = 0, vicGZ = 0, vicLX = 0, vicLY = -10, vicLZ = 0;
+
+  if (t < 150) { vicLX = 15; vicLZ = 12; }
+  else if (t < 540) {
+    victimInWater = true; float vr = getVictimR(t), vth = getVictimTheta(t);
+    vicGX = vr * cos(vth); vicGZ = vr * sin(vth); vicGY = getWhirlpoolDepth(vr) - 5;
+  } else if (t < 600) {
+    victimInWater = true; float pull = (t - 540) / 60.0;
+    vicGX = lerp(110 * cos(540 * (cSpin*0.9)), boatX, pull);
+    vicGZ = lerp(110 * sin(540 * (cSpin*0.9)), boatZ, pull);
+    vicGY = lerp(getWhirlpoolDepth(110) - 5, boatY - 10, pull); 
+  } else if (t < 650) { vicLX = map(t, 600, 650, 0, -5); vicLZ = map(t, 600, 650, 15, -10); } 
+  else { vicLX = -5; vicLZ = -10; }
+
+  float resLX = 0, resLY = -10, resLZ = 0;
+  if (t < 250) { resLX = -15; resLZ = -12; }
+  else if (t < 540) { resLX = map(max(250, t), 250, 540, -15, 0); resLZ = map(max(250, t), 250, 540, -12, 15); }
+  else if (t < 600) { resLX = 0; resLZ = 15; }
+  else if (t < 650) { resLX = map(t, 600, 650, 0, -15); resLZ = map(t, 600, 650, 15, -10); }
+  else if (t < 700) { resLX = map(t, 650, 700, -15, 0); resLZ = map(t, 650, 700, -10, 0); resLY = -10 - sin(map(t, 650, 700, 0, PI)) * 30; }
+  else if (t < 750) { resLX = map(t, 700, 750, 0, 35); }
+  else { resLX = 35; }
+
+  if (victimInWater) {
+    pushMatrix(); translate(vicGX, vicGY, vicGZ); drawLocalPerson(color(255, 50, 50)); popMatrix();
+  }
+  drawBoatAndCrew(boatX, boatY, boatZ, boatHeading, boatPitch, boatRoll, t, resLX, resLY, resLZ, vicLX, vicLY, vicLZ, !victimInWater);
+}
+
+void drawBoatAndCrew(float bX, float bY, float bZ, float heading, float pitch, float roll, float t,
+                     float resX, float resY, float resZ, float vicX, float vicY, float vicZ, boolean vicOnBoard) {
+  pushMatrix(); translate(bX, bY, bZ); rotateY(-heading); rotateZ(pitch); rotateX(-roll);
+
+  fill(50, 50, 70); box(80, 20, 30); // Cyber boat
+  pushMatrix(); translate(0, -60, 0); fill(0, 255, 255); box(4, 110, 4); 
+  if (t > 700) { fill(255, 0, 255, 200); beginShape(); vertex(0, -50, 0); vertex(55, -10, 25); vertex(0, 40, 0); endShape(CLOSE); }
+  popMatrix();
+
+  if (t > 740) { stroke(255, 0, 255); strokeWeight(3.5); line(0, -20, 0, 35, -10, 0); noStroke(); }
+
+  for (int i = 0; i < 6; i++) { pushMatrix(); translate(map(i, 0, 5, -30, 30), -10, (i % 2 == 0) ? 10 : -10); drawLocalPerson(color(100, 200, 255)); popMatrix(); }
+  
+  pushMatrix(); translate(resX, resY, resZ); drawLocalPerson(color(50, 255, 50));
+  if (t >= 540 && t < 600) { stroke(0, 255, 255); strokeWeight(6); line(0, 0, 0, 0, 25, 12); noStroke(); } 
+  popMatrix();
+
+  if (vicOnBoard) { pushMatrix(); translate(vicX, vicY, vicZ); drawLocalPerson(color(255, 50, 50)); popMatrix(); }
+  popMatrix(); 
+}
+void drawLocalPerson(int c) { fill(c); pushMatrix(); translate(0, -15, 0); sphere(5); popMatrix(); box(6, 16, 5); }
+
+// ==========================================
+// 5. FUZZY UI & DYNAMIC GRAPHS
+// ==========================================
+void drawFuzzyHUD() {
+  hint(DISABLE_DEPTH_TEST);
+  camera(); noLights();
+  
+  float btnW = width / 4.0;
+  for(int i=0; i<4; i++) {
+    fill(washMode == i ? color(0, 255, 255, 150) : color(0, 80)); stroke(0, 255, 255); strokeWeight(1);
+    rect(i * btnW, 0, btnW, 80);
+    fill(255); textSize(20); textAlign(CENTER, CENTER);
+    String[] labels = {"1: BED SHEET", "2: SILK SAREE", "3: UNDERWEAR", "4: WHITE SHIRT"};
+    text(labels[i], i * btnW + btnW/2, 40);
+  }
+  
+  fill(0, 180); rect(0, height - 60, width, 60);
+  fill(0, 255, 255); textSize(24);
+  String status = "FUZZY SENSOR: Waiting to analyze dirt levels...";
+  if (animTime > 250) status = "FUZZY PLUNGE: Adapting to fabric target depth...";
+  if (animTime > 540 && animTime < 700) status = "DEFUZZIFICATION: Extracting stains & recalculating wash power!";
+  if (animTime >= 700) status = "SUCCESS: Clothes cleaned. Evacuating matrix.";
+  text(status, width / 2.0, height - 30);
+  hint(ENABLE_DEPTH_TEST);
+}
+
+void drawFuzzyMembershipGraph() {
+  hint(DISABLE_DEPTH_TEST);
+  camera(); noLights();
+  
+  float gX = 20, gY = 100, gW = 220, gH = 150;
+  
+  // Background pane
+  fill(0, 150); stroke(0, 255, 255); strokeWeight(2);
+  rect(gX, gY, gW, gH + 100, 10);
+  
+  // Labels
+  fill(255); textSize(14); textAlign(LEFT, TOP);
+  text("FUZZY MEMBERSHIP", gX + 10, gY + 10);
+  textSize(12); text("Dirt Level", gX + 10, gY + gH + 5);
+  
+  // Draw Graph Axes
+  float axX = gX + 20, axY = gY + gH - 20, axW = 180, axH = 100;
+  stroke(255); strokeWeight(1);
+  line(axX, axY, axX + axW, axY); // X axis
+  line(axX, axY, axX, axY - axH); // Y axis
+  
+  // Draw Triangles (Low = Green, Med = Yellow, High = Red)
+  noFill(); strokeWeight(2);
+  // Low
+  stroke(0, 255, 0); triangle(axX, axY, axX, axY - axH, axX + axW/2, axY);
+  // Med
+  stroke(255, 255, 0); triangle(axX, axY, axX + axW/2, axY - axH, axX + axW, axY);
+  // High
+  stroke(255, 0, 0); triangle(axX + axW/2, axY, axX + axW, axY - axH, axX + axW, axY);
+  
+  // Draw Current Dirt Level Line
+  float dirtPx = axX + (fuzzyDirtLevel / 100.0) * axW;
+  stroke(0, 255, 255); strokeWeight(3);
+  line(dirtPx, axY, dirtPx, axY - axH);
+  fill(0, 255, 255); ellipse(dirtPx, axY, 8, 8);
+  
+  // Display Defuzzified Output
+  fill(255); textAlign(LEFT, TOP);
+  text("Dirt Input: " + nf(fuzzyDirtLevel, 1, 1) + "%", gX + 10, gY + gH + 25);
+  
+  // Defuzzified Output Bar
+  text("Defuzzified Wash Power:", gX + 10, gY + gH + 45);
+  noFill(); stroke(255);
+  rect(gX + 10, gY + gH + 65, axW, 15);
+  fill(255, 0, 255); noStroke();
+  rect(gX + 10, gY + gH + 65, (fuzzyWashPower / 100.0) * axW, 15);
+  
+  fill(255);
+  text(nf(fuzzyWashPower, 1, 1) + " RPM", gX + 10 + axW/2, gY + gH + 66);
+  
+  hint(ENABLE_DEPTH_TEST);
+}
