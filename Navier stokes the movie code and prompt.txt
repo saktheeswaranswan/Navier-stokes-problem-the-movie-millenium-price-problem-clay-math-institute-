@@ -1,0 +1,718 @@
+Navier stokes the movie navier stokes the movie
+
+### THE 212 AGENTS: THE GREAT WHIRLPOOL RESCUE
+
+12 standalone, copy-ready video prompts • 120-second continuous story • Tamil dialogue • Photorealistic characters • Scientific experiments • Cinematic VFX • Complete boat rescue
+
+The story begins in a real laboratory, follows two Tamil men through physical experiments and a holographic mathematical universe, enters a spectacular cyber whirlpool, and finishes with a successful rescue and a return to the laboratory.
+
+Important character-reference rule: Upload the original photograph of the heavy-built Tamil man as Character A and the original photograph of the lean, intelligent Tamil man as Character B to your video generator. Use both as identity references in every scene. The “Physics & probability 212” screenshot is an environmental and visual reference only; it is not a substitute for the men's photographs.
+
+The prompts below are designed as 12 separate 10-second clips. Each has its own 0–10-second timeline, Tamil dialogue, camera instructions, VFX and an explicit continuity ending. The dialogue is in Tamil so the characters speak naturally in the requested language.
+
+### Scene 1 — A glass of water, a question of infinity
+
+Clip 01 • 00:00–00:10 • Real-world laboratory opening
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 1
+TITLE: THE MYSTERY INSIDE A GLASS
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: Photorealistic live action, scientific cinematic VFX, physically inspired water simulation, premium film lighting.
+
+CHARACTER IDENTITY LOCK:
+Use the exact uploaded reference photograph of the heavy-built adult Tamil man as Character A. Use the exact uploaded reference photograph of the lean adult Tamil man as Character B. Preserve their individual facial geometry, skin tone, hairstyle, apparent age, body proportions and original clothing. No face morphing, no identity exchange, no body slimming or enlargement, no age changes, no beauty filters and no unexplained costume changes. Both men are adults. The same two faces must persist in every shot.
+
+SETTING:
+A real fluid-mechanics laboratory in Tamil Nadu. A transparent drinking glass rests on a dark workbench. A high-speed camera, a laboratory lamp, a measuring scale and a small water-tracer container are visible. Keep the scene grounded in a believable present-day scientific environment.
+
+TIMELINE:
+0.0–2.0 seconds: Open on a macro close-up of the glass. Character A rotates a spoon through the water, producing circular flow. Character B watches closely. Tiny tracer particles begin moving in curved paths. Natural laboratory ambience and the soft sound of the spoon against glass.
+
+2.0–4.0 seconds: Character A stops stirring. The water continues rotating briefly. Show reflections and a small surface depression where the rotation produces one. Character A looks at Character B with an amused, challenging expression.
+
+4.0–6.5 seconds: Character A speaks in Tamil: “ஒரு கண்ணாடி டம்ளர் தண்ணீருக்கே இவ்வளவு கணக்கா?”
+English sense: “So much mathematics for a glass of water?”
+
+Character B answers: “சின்ன சுழலுக்குள்ளேயும் பெரிய இயற்பியல் இருக்கு!”
+English sense: “Even a small vortex contains deep physics!”
+
+6.5–8.5 seconds: Character B points toward the water. Fine cyan arrows appear as a clearly labelled scientific overlay, tangent to circular trajectories. Keep the underlying water realistic. Do not make the arrows look like physical objects in the glass.
+
+8.5–10.0 seconds: The camera moves directly toward the vortex centre. Magnify the rotating tracer particles until the water fills the whole frame. The glass edges stretch into an abstract curved grid inspired by the supplied “Physics & probability 212” image. End on a dark, sparkling vortex surrounded by faint mathematical symbols.
+
+CAMERA AND VFX:
+Begin with an 85 mm macro-lens aesthetic, then use one smooth push-in. Realistic water reflections, accurate particle motion, shallow depth of field, controlled cyan and violet highlights, detailed skin texture, natural hand anatomy, cinematic orchestral opening.
+
+AUDIO:
+Tamil dialogue, accurate lip synchronization, no extra speech, soft spoon and water sounds, music rising at the end.
+
+CONTINUITY END FRAME:
+A luminous particle spirals into the centre of the frame. Use this exact final frame as the opening reference for Scene 2. No abrupt changes in character appearance.
+
+### Scene 2 — The invisible velocity vectors
+
+Clip 02 • 00:10–00:20 • From the glass to a physical experiment
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 2
+TITLE: WHERE IS THE WATER GOING?
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: Photorealistic scientific demonstration with cinematic 3D visualization.
+
+MANDATORY REFERENCES:
+Use the same two original character photographs from Scene 1. Character A remains the heavy-built Tamil man; Character B remains the lean Tamil man. Lock both identities, faces, body shapes, skin tones, hairstyles, apparent ages and clothing. Continue from Scene 1 without redesigning either man. Use the supplied “Physics & probability 212” picture only as a background visual inspiration.
+
+SETTING:
+The same real laboratory and glass. A large transparent display behind the bench shows a magnified computational reconstruction of the measured water flow. The men remain physically present in the lab; the 3D vortex is a visualization, not a literal transformation of their bodies.
+
+TIMELINE:
+0.0–2.0 seconds: Match the previous shot's rotating tracer particle. The camera pulls back to reveal the same glass, both men and the laboratory display. The particle trajectory expands into a circular streamline.
+
+2.0–4.0 seconds: Character B draws three arrows on the display: tangential, radial and vertical. Show cylindrical coordinates r, theta and z. Display the velocity decomposition:
+u = u_r e_r + u_theta e_theta + u_z e_z.
+Use correct scientific notation, not random decorative symbols.
+
+4.0–6.5 seconds: Character A leans toward the display and challenges him in Tamil: “தண்ணீர் எங்கே போகுது? நேராகச் சொல்லு!”
+English sense: “Where is the water going? Tell me directly!”
+
+Character B replies: “சுழற்சி, உள்நோக்கிய ஓட்டம், செங்குத்து இயக்கம் — மூன்றையும் பிரித்துப் பார்!”
+English sense: “Separate the rotation, inward flow and vertical motion!”
+
+6.5–8.5 seconds: Animate tangential arrows curving around the axis. Show radial arrows only where radial motion exists, and axial arrows where vertical flow exists. Beside them, contrast an ideal potential vortex, u_theta = Gamma/(2*pi*r), outside its core with a finite-core vortex that remains smooth near the axis.
+
+8.5–10.0 seconds: Character B taps the finite-core model. The camera tracks along its glowing streamlines and passes through the display into a vast three-dimensional fluid landscape. Both men's faces must not distort during the transition.
+
+SCIENTIFIC REQUIREMENTS:
+Velocity vectors represent local velocity directions and magnitudes. Tangential flow does not necessarily imply inward flow at every point. The ideal potential-vortex relationship must not be labelled valid at r = 0. Keep the display legible.
+
+VFX:
+Fine tracer particles, transparent coordinate axes, curved streamlines, depth-enhanced cyan and violet trails, realistic laboratory reflections and a smooth camera transition.
+
+AUDIO:
+Tamil voices, accurate lip sync, no overlapping dialogue, quiet laboratory ambience and a rising electronic tone.
+
+CONTINUITY END FRAME:
+The camera emerges into the magnified three-dimensional vortex. Match the final streamlines to Scene 3.
+
+### Scene 3 — Laminar flow, transition and turbulence
+
+Clip 03 • 00:20–00:30 • Real fluid regimes
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 3
+TITLE: WHEN ORDER BECOMES TURBULENCE
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: High-end scientific cinema, realistic fluid behaviour, photorealistic Tamil characters.
+
+CHARACTER LOCK:
+Continue using the same two source photographs. Character A remains heavy-built. Character B remains lean. Do not alter faces, age, hairstyles, proportions or clothing. Their positions should be consistent with the final positions from Scene 2.
+
+TIMELINE:
+0.0–2.0 seconds: Continue through the 3D vortex. The camera reveals three transparent sections of a laboratory water channel. Character A and Character B stand on a safe observation platform beside the real experimental rig.
+
+2.0–4.0 seconds: The first section displays smooth laminar motion, with carefully separated tracer paths. The second displays disturbances and an emerging transition. The third shows three-dimensional turbulent eddies and irregular fluctuations. Keep the three states visibly distinct.
+
+4.0–6.5 seconds: Character A points toward the turbulent section and says: “தண்ணீர் ஏன் திடீர்னு இவ்வளவு குழப்பமா மாறுது?”
+English sense: “Why does the water suddenly become so chaotic?”
+
+Character B answers: “இனர்ஷியாவும் பிசுபிசுப்பு விசையும் எப்படி போட்டியிடுகின்றன என்பதுதான் முக்கியம்!”
+English sense: “The balance between inertia and viscosity is important!”
+
+6.5–8.5 seconds: Display the Reynolds number:
+Re = rho U L / mu = U L / nu.
+Label the terms density, characteristic velocity, characteristic length, dynamic viscosity and kinematic viscosity. Show animated arrows and eddies, while clearly indicating that transition depends on geometry, disturbances, boundary conditions and flow conditions.
+
+8.5–10.0 seconds: The turbulent vortex grows across the display until the screen fills with its rotating structures. Character A and Character B exchange determined glances as the next experiment loads.
+
+SCIENTIFIC ACCURACY:
+Do not claim that a particular Reynolds number universally marks turbulence in all situations. The governing equations can describe different regimes. A turbulent visualization is not evidence of a singularity.
+
+CAMERA AND VFX:
+Smooth lateral tracking, macro tracer-particle views, transparent channel walls, physically inspired turbulence, detailed specular water reflections and cinematic scale.
+
+AUDIO:
+Tamil dialogue with natural delivery, water-pump hum, low-frequency orchestral tension. No additional spoken words.
+
+CONTINUITY:
+End on a large turbulent spiral. Match the spiral shape and camera direction at the start of Scene 4.
+
+### Scene 4 — Einstein and the difficult equation
+
+Clip 04 • 00:30–00:40 • Historical imagination
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 4
+TITLE: THE CHALKBOARD OF IMPOSSIBLE QUESTIONS
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: Period-inspired photorealistic historical reconstruction, blended with modern cinematic VFX.
+
+CHARACTER LOCK:
+Character A and Character B must retain the exact identities and clothing from their source photographs. Neither man becomes a different person during the historical transition. Present the Einstein sequence as a fictional dramatization viewed by the two men inside a holographic archive; do not claim the event actually happened.
+
+TIMELINE:
+0.0–2.0 seconds: The turbulent spiral from Scene 3 contracts into a chalk circle on a blackboard in a period-inspired study. Character A and Character B appear inside a futuristic archive viewing a historical reconstruction.
+
+2.0–4.0 seconds: A period-inspired portrayal of Albert Einstein studies fluid equations, momentum conservation, pressure gradients and viscosity. He adds a complicated flow sketch, examines it, erases a failed line and pauses in frustration.
+
+4.0–6.5 seconds: Einstein pushes the papers away and exclaims in Tamil, as a dramatic dubbed reconstruction: “சமன்பாடுகள் இருக்கின்றன; ஆனால் முழு இயக்கத்தையும் புரிந்துகொள்வது எளிதல்ல!”
+English sense: “The equations exist, but understanding the complete motion is not easy!”
+
+6.5–8.0 seconds: Character A watches and says: “அப்படின்னா மேதைகளுக்குக்கூட விடை சுலபமில்லை!”
+English sense: “Then even great minds do not find every answer easily!”
+
+8.0–10.0 seconds: Character B responds: “தோல்வியடைந்த கணக்கு நிரூபணம் இல்லை; மீண்டும் சோதிக்க வேண்டும்.”
+English sense: “A failed calculation is not a proof; it must be examined again.”
+
+The chalk equations dissolve into luminous points, which flow into a contemporary AI research network. The archive visibly transitions from historical paper and chalk to a modern digital laboratory.
+
+CAMERA AND VFX:
+Warm historical lighting, authentic paper textures, gentle chalk dust and controlled visual effects. Use realistic hands and natural human expressions. Avoid exaggerated caricature.
+
+SCIENTIFIC AND HISTORICAL NOTE:
+The dramatic frustration and dialogue are fictional. Do not represent Einstein as having demonstrably attempted and abandoned the Navier–Stokes Millennium Problem.
+
+AUDIO:
+Tamil dubbing for the dramatized historical figure and both Tamil men. Keep dialogue synchronized and concise.
+
+CONTINUITY:
+End on the luminous research points forming the outline of a circular arena, which becomes the setting of Scene 5.
+
+### Scene 5 — The Colosseum challenge
+
+Clip 05 • 00:40–00:50 • The main rivalry begins
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 5
+TITLE: THE BATTLE BETWEEN INTUITION AND PROOF
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: Epic science-fiction cinema, monumental architecture, realistic adult Tamil characters and spectacular holographic VFX.
+
+IDENTITY LOCK:
+Use the original heavy-built Tamil-man photograph for Character A and the original lean Tamil-man photograph for Character B. Preserve their exact recognizable faces, hairstyles, skin tones, apparent ages, proportions and clothing. No face swapping, morphing, beautification or changes in body size. Maintain the same characters and visual identities established in Scenes 1–4.
+
+TIMELINE:
+0.0–2.0 seconds: The research network from Scene 4 expands into a gigantic Roman Colosseum. Character A strides onto the arena floor. Character B stands opposite him beneath a holographic 3D ocean vortex. Thousands of scholars fill the stands.
+
+2.0–4.0 seconds: The camera circles the two men as streams of equations and velocity vectors hover between them. Character A points accusingly at the vortex.
+
+4.0–6.5 seconds: Character A shouts in Tamil: “வரைகிறதெல்லாம் சரி! சுழல் எப்படி மாறும்னு கணித்துக் காட்டு!”
+English sense: “Drawing it is easy! Show how you can predict the vortex!”
+
+6.5–8.5 seconds: Character B replies firmly: “படம் ஒரு மாதிரி மட்டுமே. கணக்கீடும் சோதனையும் நிரூபணமும் வேண்டும்!”
+English sense: “A picture is only a model. We need computation, experiments and proof!”
+
+8.5–10.0 seconds: The entire arena floor lights up with concentric rings. The number 212 forms above the men from hundreds of luminous nodes. Both characters turn to face the emerging network.
+
+CINEMATIC VFX:
+Vast Roman architecture, realistic crowd scale, dynamic aerial views, holographic ocean surfaces, cyan and purple illumination, restrained lens flares, volumetric beams and orchestral percussion.
+
+PERFORMANCE:
+Character A is expressive, confrontational and physically imposing. Character B is composed, observant and scientifically confident. Their argument must feel intense but remain a verbal confrontation, with no physical attack.
+
+AUDIO:
+Tamil dialogue, accurate lip sync, natural Tamil voices and distant crowd reactions. No English speech.
+
+CONTINUITY:
+The glowing number 212 must occupy the centre of the final frame. Scene 6 begins with the same number and camera orientation.
+
+### Scene 6 — The 212 research agents awaken
+
+Clip 06 • 00:50–01:00 • Research swarm activation
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 6
+TITLE: 212 AGENTS, ONE GREAT QUESTION
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: Monumental AI science-fiction cinema, photorealistic characters, spectacular neural-network VFX.
+
+CHARACTER LOCK:
+Use the same two reference photographs in every frame. Character A remains the heavy-built Tamil man and Character B remains the lean Tamil man. Do not modify their face geometry, skin tone, apparent age, clothing or body proportions. No identity drift during camera movement.
+
+TIMELINE:
+0.0–2.0 seconds: Start with the number 212 suspended above the Colosseum. Its digits break into luminous particles. Each particle becomes a node, generating exactly 212 principal research-agent symbols across the arena's holographic sky.
+
+2.0–4.0 seconds: The nodes form specialised groups: mathematical analysis, fluid mechanics, vorticity, functional analysis, CFD, turbulence, numerical verification and formal proof checking. Show books, papers, equations and controlled experimental data connected to these agents.
+
+4.0–6.5 seconds: Character B gestures toward the network and says in Tamil: “212 முகவர்கள், 212 ஆய்வுப் பாதைகள்; ஒவ்வொன்றும் ஆதாரத்தைச் சோதிக்க வேண்டும்!”
+English sense: “212 agents, 212 research paths; every one must test the evidence!”
+
+6.5–8.0 seconds: Character A responds: “பிழையான விடையை எல்லோரும் சேர்ந்து உண்மையாக்க முடியாது!”
+English sense: “A wrong answer does not become true just because everyone agrees!”
+
+8.0–10.0 seconds: The agents challenge one another. Incorrect derivations glow red and are sent back for checking. Consistent steps glow cyan or green. Unresolved questions remain amber. A vast rotating stream of research material converges toward one fluid-mechanics equation.
+
+VISUAL DESIGN:
+Use 212 visible primary nodes. Give each node a distinctive mathematical symbol, not a different human face. Display research books, journal pages and equations as graphical representations rather than claiming they are verified sources unless actual references are supplied.
+
+SCIENTIFIC GUARDRAIL:
+Multiple AI agents do not automatically constitute independent proof. The system must label uncertain results and retain unresolved claims.
+
+AUDIO:
+Two Tamil voices, precise lip synchronization, layered data sounds and dramatic orchestral music.
+
+CONTINUITY:
+The research network converges on a luminous Navier–Stokes equation at the centre of the final frame. Match this equation's position in Scene 7.
+
+### Scene 7 — The equations governing the vortex
+
+Clip 07 • 01:00–01:10 • Mathematical confrontation
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 7
+TITLE: THE EQUATIONS THAT GOVERN THE WATER
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: Photorealistic scientific cinema, correct mathematical notation, fluid simulation and holographic visualization.
+
+CHARACTER LOCK:
+Use Character A and Character B exactly as depicted in the original supplied photographs. Character A is heavy-built; Character B is lean. Preserve age, skin, face, clothing, hairstyle and proportions. No character transformation. Both are physically present on the Colosseum arena floor.
+
+TIMELINE:
+0.0–2.0 seconds: The equation from Scene 6 expands above a transparent cylindrical computational domain. Inside the cylinder, particles move through a three-dimensional vortex. Each particle has a local velocity vector and the flow displays a changing pressure field.
+
+2.0–4.0 seconds: Project the incompressible Navier–Stokes momentum equation in a clearly separated, readable layout:
+
+∂u/∂t + (u · ∇)u = −(1/ρ)∇p + ν∇²u + f
+
+Then, on a separate line:
+
+∇ · u = 0
+
+Label the terms: local acceleration, nonlinear advection, pressure gradient, viscous diffusion and external acceleration. Identify the second equation as the incompressibility condition.
+
+4.0–6.5 seconds: Character A challenges Character B: “சமன்பாடுகள் தெரிஞ்சா, எதிர்கால ஓட்டத்தைக் கணக்கிட முடியாதா?”
+English sense: “If we know the equations, can't we calculate the future flow?”
+
+6.5–8.5 seconds: Character B responds: “சமன்பாடுகளை எழுதுவது வேறு; எல்லா சூழலிலும் தீர்வின் பண்புகளை நிரூபிப்பது வேறு!”
+English sense: “Writing the equations is one thing; proving the solution's properties in every permitted situation is another!”
+
+8.5–10.0 seconds: The momentum equation projects into the water itself. The two men watch as particles and streamlines evolve. Some trajectories converge; others separate. Nothing is labelled a singularity merely because lines come close together.
+
+SCIENTIFIC REQUIREMENTS:
+Assume an incompressible Newtonian fluid of constant density and viscosity for this displayed formulation. Use f as acceleration per unit mass. Distinguish a numerical streamline from an actual particle trajectory, and do not imply a general closed-form solution exists.
+
+VFX AND CAMERA:
+Transparent equations, physically inspired particle advection, readable typography, light refracting through water, detailed fluid structures and a slow 180-degree camera arc.
+
+AUDIO:
+Tamil-only dialogue, accurate lip sync, restrained electronic tones and swelling orchestral ambience.
+
+CONTINUITY:
+The camera ends approaching a transparent vortex core. Continue with the same core in Scene 8.
+
+### Scene 8 — Infinity, singularities and the real glass
+
+Clip 08 • 01:10–01:20 • Testing the limits of the model
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 8
+TITLE: CAN A REAL WHIRLPOOL REACH INFINITY?
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: Photorealistic macro water, scientific visualization, dramatic yet physically grounded cinematic VFX.
+
+CHARACTER LOCK:
+Maintain exactly the same heavy-built Character A and lean Character B using their original uploaded photographs. Preserve their faces, apparent ages, skin tones, physiques, hairstyles and clothing. No morphing or identity changes during macro or wide-angle transitions.
+
+SETTING:
+The holographic vortex resolves into a real laboratory glass of water held near a rotating experimental platform. Character A changes the rotation rate within a controlled demonstration. Character B studies the surface shape and particle trajectories. A magnified scientific display accompanies the physical water.
+
+TIMELINE:
+0.0–2.0 seconds: Show the glass rotating under a controlled setup. The water forms a depression whose shape changes with the rotation. Use realistic lighting, tracer motion and a visible scale to communicate that this is a finite experiment.
+
+2.0–4.0 seconds: Split the visual display between an ideal potential-vortex model, u_theta = Gamma/(2*pi*r), and a smooth finite-core model. The ideal formula is labelled OUTSIDE THE CORE. As r approaches zero in this idealized formula, tangential speed grows without bound; do not portray this as a measurement of real water.
+
+4.0–6.5 seconds: Character A asks in Tamil: “சுழற்சி வேகத்தை அதிகப்படுத்தினால் தண்ணீர் முடிவில்லாமல் வேகமா போகுமா?”
+English sense: “If the rotation increases, can the water speed become infinite?”
+
+6.5–8.5 seconds: Character B replies: “இல்லை! கணித மாதிரி தரும் முடிவில்லா மதிப்பு, நிஜத் தண்ணீரில் முடிவில்லா வேகம் என்பதல்ல.”
+English sense: “No! An infinite value in a mathematical model does not mean infinite speed in real water.”
+
+8.5–10.0 seconds: The finite-core visualization remains smooth around its centre. A clear title appears: MATHEMATICAL SINGULARITY ≠ MEASURED PHYSICAL INFINITY. The camera pulls back to reveal the two men studying the model.
+
+SCIENTIFIC ACCURACY:
+A potential vortex has tangential velocity proportional to 1/r away from its idealized axis. Do not extend it blindly into the core. Do not claim that every real vortex has the same profile. Vortex depth, width and stability depend on geometry, viscosity, energy input and boundary conditions.
+
+VFX:
+Realistic reflections, smooth tracer particles, transparent overlays, correct cylindrical geometry, dramatic close-up photography and precise mathematical labels.
+
+AUDIO:
+Natural Tamil voices and realistic water sounds. No false claim that an ordinary glass demonstrates a Navier–Stokes singularity.
+
+CONTINUITY:
+End with the finite-core velocity profile expanding into a 3D computational mesh. Scene 9 begins with exactly that mesh.
+
+### Scene 9 — The supercomputer tests the vortex
+
+Clip 09 • 01:20–01:30 • Numerical experiments and CFD
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 9
+TITLE: THE SIMULATION THAT FAILED
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: High-end computational science film, realistic Tamil actors, cinematic simulation VFX.
+
+CHARACTER LOCK:
+Character A must match the supplied heavy-built Tamil-man photograph. Character B must match the supplied lean Tamil-man photograph. Preserve each face, hairstyle, complexion, apparent age, physique and clothing exactly. Keep consistent screen positions and natural body movement. No morphing.
+
+SETTING:
+A real modern computational-fluid-dynamics laboratory. The finite-core model from Scene 8 becomes a large high-resolution mesh on a display. Both men stand before an actual workstation with a keyboard and multiple scientific visualization screens.
+
+TIMELINE:
+0.0–2.0 seconds: The camera follows the expanding mesh onto the workstation screen. Display a three-dimensional domain, grid cells, vortex-core refinement and separate windows showing velocity magnitude, pressure, vorticity and streamlines.
+
+2.0–4.0 seconds: The simulation shows an extremely sharp velocity spike near the core. Character A reacts enthusiastically. Character B notices that the spike changes substantially when the mesh or time step changes.
+
+4.0–6.5 seconds: Character A says in Tamil: “பார்த்தியா? உன் மாதிரி கணக்கு தவறுனு இந்தச் சுழல் காட்டுது!”
+English sense: “See? This vortex shows that your calculation is wrong!”
+
+6.5–8.5 seconds: Character B replies: “வலை அளவையும் நேரப் படியையும் மாற்றிப் பார்ப்போம்; இது கணித விளைவா, கணக்கீட்டுப் பிழையா என்று சோதிப்போம்.”
+English sense: “Let's change the mesh and time step and test whether this is a physical feature or a numerical error.”
+
+8.5–10.0 seconds: The two men initiate a refined calculation. Display a sequence of mesh refinement, reduced time steps and convergence comparisons. The most unstable result is flagged amber as UNVERIFIED, not accepted as a physical singularity. End on two side-by-side calculations with clearly visible error indicators.
+
+SCIENTIFIC REQUIREMENTS:
+Show proper numerical validation: mesh-convergence studies, time-step sensitivity, boundary-condition checks and residual evaluation. A refined result must not automatically be labelled correct without appropriate evidence. No false claim that CFD alone proves a universal theorem.
+
+CAMERA AND VFX:
+Realistic computer screens, legible mesh structures, pressure contours, carefully bounded data visualizations, cinematic reflections and dynamic close-ups of both men.
+
+AUDIO:
+Tamil dialogue, workstation hum, understated electronic effects and dramatic tension.
+
+CONTINUITY:
+Character B saves the reviewed computational setup. The workstation display changes into the AI proof-review interface for Scene 10.
+
+### Scene 10 — The AI mathematics challenge
+
+Clip 10 • 01:30–01:40 • AI-assisted discovery and verification
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 10
+TITLE: CAN ARTIFICIAL INTELLIGENCE PROVE IT?
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: Futuristic research laboratory, sophisticated AI interface, photorealistic Tamil characters and cinematic holographic VFX.
+
+CHARACTER LOCK:
+Continue using the two original character photographs. Character A remains heavy-built and Character B remains lean. Preserve both men's individual faces, appearance, apparent age, clothing and body proportions. Do not age, morph or exchange their faces.
+
+SETTING:
+The same real CFD laboratory, with the reviewed numerical simulation still visible. A modern AI mathematical research interface has opened on the workstation. It displays a derivation broken into numbered mathematical steps, with a formal proof checker, research-agent commentary and a separate numerical-evidence panel.
+
+TIMELINE:
+0.0–2.0 seconds: The 212-node research network from the earlier Colosseum scene appears on the display. Individual agents retrieve relevant mathematical references, compare assumptions and inspect the equations from Scene 7.
+
+2.0–4.0 seconds: The AI proposes a mathematical argument. Most steps are highlighted green, while an unsupported implication glows red. A separate simulated vortex continues running, clearly distinguished from the proof interface.
+
+4.0–6.5 seconds: Character A exclaims in Tamil: “இப்போ செயற்கை நுண்ணறிவு கணக்கை எழுதிட்டது! முடிவு கிடைச்சாச்சா?”
+English sense: “Now artificial intelligence has written the calculation! Have we got the answer?”
+
+6.5–8.5 seconds: Character B responds: “ஒரு படி நிரூபிக்கப்படவில்லை. எல்லா கருதுகோள்களையும் சரிபார்த்து, நிரூபணத்தைத் தனியாகச் சோதிக்க வேண்டும்.”
+English sense: “One step has not been proved. We must check the assumptions and verify the proof independently.”
+
+8.5–10.0 seconds: The system marks the unresolved implication for review. One restricted claim is labelled VERIFIED UNDER STATED ASSUMPTIONS; the overall general problem remains labelled NOT ESTABLISHED BY THIS EXPERIMENT. The AI network then opens a vivid three-dimensional rescue simulation.
+
+SCIENTIFIC HONESTY:
+Do not claim that OpenAI, the fictional 212 agents or this invented sequence has solved the entire Navier–Stokes existence-and-smoothness problem. AI-generated mathematics requires rigorous checking. Distinguish numerical experiments, restricted results and universal theorem claims.
+
+VISUAL EFFECTS:
+Luminous proof trees, correct mathematical typography, precise highlighted implications, holographic reference documents and the original curved-grid aesthetic. Do not fill the screen with unreadable pseudo-equations.
+
+AUDIO:
+Tamil dialogue, natural lip synchronization, subtle computational sound design and a rising orchestral cue.
+
+CONTINUITY:
+The simulation window grows into the opening of a giant cyber vortex. Preserve this exact transition into Scene 11.
+
+### Scene 11 — Entering the cyber whirlpool
+
+Clip 11 • 01:40–01:50 • The experiment becomes an immersive world
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 11
+TITLE: THE CYBER WASHING-MACHINE WHIRLPOOL
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: Ultra-detailed 3D cinematic VFX, immersive scientific visualization, futuristic water simulation, photorealistic character references.
+
+CHARACTER LOCK:
+Use the original reference photograph of the heavy-built Tamil man for Character A and the original photograph of the lean Tamil man for Character B. Both characters must retain exact facial identity, hairstyle, apparent age, skin tone, body proportions and reference clothing. Their virtual representations must resemble the same people. No face morphing, no age change, no sudden costume change and no identity exchange.
+
+SCIENTIFIC AND STORY CONTINUITY:
+This scene is the immersive 3D representation of the reviewed vortex model. The enormous whirlpool and escape route are cinematic, stylized visualization, not a claim that a controlled washing-machine simulation reproduces every real-world vortex. Retain the concepts and visual style of the supplied Processing P3D sketch.
+
+TIMELINE:
+0.0–2.0 seconds: The simulation from Scene 10 fills the monitor. A glowing cyan circle expands to become an enormous transparent cylindrical washing-machine drum. The camera passes through the circle into a virtual environment of rotating water, curving grids and luminous particles. The physical laboratory remains faintly visible for a moment behind the transition.
+
+2.0–4.0 seconds: Reveal five pieces of fabric orbiting the cyber vortex. Brown stain particles rotate around the drum while a dark, smooth central vortex dominates the scene. A small rescue boat carries six crew members. A trapped adult man is visible closer to the central flow. Character A and Character B appear as consistent, identifiable virtual observers on a transparent command platform beside the scene.
+
+4.0–6.5 seconds: Character A points at the trapped man and shouts in Tamil: “போதும் விவாதம்! முதலில் அந்த மனிதரைக் காப்பாற்ற வேண்டும்!”
+English sense: “Enough arguing! First, we must rescue that man!”
+
+Character B replies: “வேகத் திசைகளையும் படகின் பாதையையும் பார்த்து அணுகுவோம்!”
+English sense: “Let's approach using the velocity directions and the boat's route!”
+
+6.5–8.5 seconds: Display the red victim trajectory, cyan boat wake and local tangential velocity arrows. The boat approaches the person in a controlled arc. The fuzzy-logic panel shows LOW, MEDIUM and HIGH dirt memberships and a changing wash-power output. It is an auxiliary visualization, not the controller of the boat's hydrodynamics.
+
+8.5–10.0 seconds: The boat moves into rescue position. A crew member prepares a line; Character A leans forward to help while Character B monitors the route. The victim reaches toward the rescue line. The camera approaches the boat, setting up the actual boarding in Scene 12.
+
+VFX:
+Gigantic cyan wireframe drum, purple highlights, realistic-looking water, orbiting cloth, dirt particles, volumetric mist, dramatic lighting, red victim path, cyan wake and clearly visible rescue equipment.
+
+CAMERA:
+One continuous virtual camera move, starting from the workstation and ending beside the boat. Keep faces stable during close-ups and never stretch facial features in the vortex transition.
+
+AUDIO:
+Tamil dialogue, six-person crew ambience, water turbulence, warning tones and tense orchestral music. Natural synchronized speech only.
+
+CONTINUITY:
+End when the rescue line reaches the trapped man. The rescue is not complete until the next scene shows the person aboard the boat.
+
+### Scene 12 — The rescue, the escape and the return to reality
+
+Clip 12 • 01:50–02:00 • Final climax and story resolution
+
+COPY-READY VIDEO GENERATION PROMPT — SCENE 12
+TITLE: BEYOND THE WHIRLPOOL
+DURATION: EXACTLY 10 SECONDS
+ASPECT RATIO: 16:9
+STYLE: Epic cinematic science fiction, realistic rescue action, spectacular 3D fluid VFX and an emotionally satisfying final shot.
+
+MANDATORY CHARACTER REFERENCES:
+Use the exact original supplied photograph of the heavy-built adult Tamil man as Character A and the exact original supplied photograph of the lean adult Tamil man as Character B. Match both faces precisely to their references. Maintain the same hairstyles, skin tones, apparent ages, physique, clothing and voice identities as every previous scene. Do not morph, age, beautify, slim, enlarge or swap either character. Their virtual forms must remain visually consistent with the photographs.
+
+OPENING CONTINUITY:
+Begin with precisely the same boat position, water movement, rescue line and camera direction as the final frame of Scene 11. The trapped adult man is still in the water. The boat has not yet completed the rescue. Do not skip the boarding action.
+
+TIMELINE:
+0.0–2.0 seconds: The rescue line reaches the trapped man. A crew member pulls it taut. Character A grips the side rail and reaches toward the man while Character B guides the crew. Show the boat adjusting its position against the stylized swirling water.
+
+Character A shouts in Tamil: “கயிற்றைப் பிடிங்க! விடாதீங்க!”
+English sense: “Grab the rope! Don't let go!”
+
+2.0–4.0 seconds: The trapped man securely catches the line. The crew pulls him toward the boat, and Character A helps bring him over the side. Character B calls out in Tamil: “மெதுவாக இழுங்க! படகின் சமநிலையைக் காப்பாத்துங்க!”
+English sense: “Pull carefully! Keep the boat balanced!”
+
+4.0–6.0 seconds: The rescued man is visibly and completely aboard. He lies safely inside the boat, then sits up as a crew member supports him. The red victim trajectory ends at the boarding point, and a cyan pulse marks the completed rescue. Keep the entire man visible so that the boarding is unambiguous.
+
+Character A looks back at the vortex and says: “மனிதர் பாதுகாப்பாக இருக்கிறார்! இப்போ வெளியே போகலாம்!”
+English sense: “The man is safe! Now let's get out!”
+
+6.0–8.0 seconds: Character B points to the outgoing path. The crew rotates the boat away from the whirlpool's centre and accelerates outward. Its cyan wake makes a broad, continuous arc toward the outer boundary. The trapped man remains aboard throughout. The boat clears the vortex boundary and enters visibly calmer water.
+
+8.0–9.0 seconds: The camera follows the boat into open water. The crew checks the rescued man and celebrates. The vortex remains behind them, still rotating, while the cyan wake gradually fades.
+
+9.0–10.0 seconds: Pull back dramatically. The water, cylindrical cyber washing-machine drum and holographic streamlines dissolve into the exact desktop display in the original real-world laboratory. Character A and Character B stand beside the workstation, still looking exactly as they did at the beginning. The screen displays the completed rescue simulation, a saved trajectory and the 212-agent research network.
+
+Character B says in Tamil: “கணிதம் வழிகாட்டியது; சோதனை நம்மைச் சரிபார்க்க வைத்தது!”
+English sense: “Mathematics guided us; experimentation made us verify our work!”
+
+The two men exchange a respectful nod. End on the final title:
+
+THE 212 AGENTS — THE GREAT WHIRLPOOL RESCUE
+
+From a glass of water to the limits of mathematical knowledge.
+
+CINEMATIC VFX:
+Realistic rope tension, believable boarding choreography, clear rescue-line contact, balanced boat motion, physically inspired water, a continuous cyan wake, red trajectory termination, a visibly completed escape and a smooth return to the real laboratory.
+
+SCIENTIFIC HONESTY:
+The rescue path belongs to the stylized simulation. Do not present it as a validated real-world rescue route or as proof of a Navier–Stokes theorem. Keep the AI research network separate from the mathematical proof itself.
+
+AUDIO AND MUSIC:
+Tamil dialogue with accurate lip synchronization, believable crew voices, splashing water, the rescue boat's motor and an orchestral resolution. Finish the last second with a clean musical conclusion rather than an abrupt cut.
+
+FINAL ACCEPTANCE CHECKLIST:
+- Both original Tamil men remain recognizable and visually consistent.
+- The rescued man visibly catches the line and is lifted completely aboard.
+- The boat turns outward only after the rescue is complete.
+- The cyan wake connects the approach, rescue and escape.
+- The vortex remains behind the boat.
+- The final frame returns to the original laboratory.
+- No character morphing, identity swapping, unexplained outfit changes or unsupported scientific claims.
+
+### Global settings to reuse for every clip
+
+Identity consistency
+
+Two fixed reference photographs; no changes to face, age, physique, skin tone, hairstyle or clothing.
+
+Video format
+
+16:9 widescreen, 10 seconds per clip, 24–30 fps, cinematic camera motion, photorealistic characters.
+
+Tamil voice continuity
+
+Use one consistent Tamil voice for each character, natural spoken Tamil, accurate lip synchronization, and no accidental English dialogue.
+
+Frame-to-frame continuity
+
+Use the last frame of each scene as the initial reference for the next. Repeat the identity and clothing lock in every prompt.
+
+Best workflow: Generate Scene 1 first, select its final frame, and use that frame as a continuation reference for Scene 2. Repeat this process through Scene 12. Upload both character photos separately in every generation where reference-image inputs are supported; the “Physics & probability 212” image should guide the environment and particle-network aesthetic, not the character identities.
+
+For accurate Tamil dialogue and stable facial identity, generate the visuals and voices separately when the video model struggles with long spoken lines. Combine the clips afterward with consistent voices, subtitles and sound design.
+
+
+
+Safe soori mandadi prompt best code movie 
+
+
+Below are three separate, copy-ready 10-second video prompts. Each starts at 00:00 and ends at 00:10, so you can generate three clips and combine them into one 30-second cinematic sequence. The story progresses from the sailboat accident, through the underwater whirlpool, to the discovery of the trapped megastructures and creatures, with the hero beginning the rescue.
+
+### SNIPPET 1 — THE FALL INTO THE CYBER WHIRLPOOL
+
+**COPY-READY VIDEO GENERATION PROMPT — THE 212 AGENTS: THE GREAT WHIRLPOOL RESCUE — PART 1: THE FALL**
+
+**DURATION:** Exactly 10 seconds. **ASPECT RATIO:** 16:9. **STYLE:** Ultra-photorealistic Hollywood science-fiction blockbuster, IMAX-scale cinematography, physically convincing water simulation, monumental Roman Colosseum, spectacular cyan and violet cybernetic VFX, dramatic volumetric lighting, realistic human movement, intricate fluid dynamics, and thunderous orchestral sound.
+
+**CHARACTER IDENTITY LOCK:** Use the supplied original photographs as the exact identity references for Character A, the heavy-built adult Tamil hero, and Character B, the lean adult Tamil mathematician. Preserve their recognizable faces, skin tones, hairstyles, apparent ages, clothing, physiques, and body proportions. Character C is a distinct young adult Tamil man, approximately 20–25 years old, wearing a vivid red shirt and dark trousers. All three remain separate, recognizable adults. No face swapping, morphing, artificial aging, or body-shape changes.
+
+**00:00–00:03 — MONUMENTAL ESTABLISHING SHOT:** Open above a colossal ancient Roman Colosseum surrounding an impossibly huge, rotating cybernetic washing-machine whirlpool. The camera dives rapidly between monumental stone arches toward the gigantic circular water vortex. Concentric cyan energy rings, violet lightning-like reflections, translucent scientific holograms, and animated Navier–Stokes-inspired equations illuminate towering walls of water. A traditional wooden sailing vessel struggles near the outer rim, with a clearly visible wooden hull, rear stern rail, mast, ropes, and enormous woven-cloth sail. The sail billows violently in the wind.
+
+**00:03–00:06 — THE ACCIDENT:** Cut to a dynamic tracking shot along the boat's deck. Character B grips the rigging while Character A turns toward the violent waves. Character C stands beside the clearly identifiable REAR STERN RAIL. An enormous gust suddenly inflates the sail; the ropes tighten and the hull pitches sideways as a turbulent wave strikes. Character C loses his balance, reaches for the wooden stern rail, misses it, and falls backward over the BACK OF THE BOAT. Show his entire body crossing the rear rail. His vivid red shirt remains clearly visible. Do not cut away before the fall is understood.
+
+**00:06–00:08 — IMPACT AND TRAJECTORY:** The camera follows Character C downward in one continuous movement. He strikes the rotating water behind the stern, producing an enormous physically simulated crown splash, exploding droplets, white foam, and concentric impact waves. The vortex catches him and begins carrying him along a visible spiral trajectory toward the darker inner region. A thin luminous red trajectory line briefly traces his actual movement over the water, following the spiral rather than appearing randomly.
+
+**00:08–00:10 — THE HERO COMMITS:** Character A rushes to the rear rail, looks down, grips the wet wood, and climbs over the stern. In a powerful low-angle shot, he launches himself into the whirlpool after Character C. Show his feet leaving the boat and his body descending toward the water. Character B remains aboard and reaches for a rescue rope. Finish with Character A entering the water in a spectacular splash, the camera plunging through the surface directly behind him.
+
+**CAMERA AND VFX:** Rapid aerial descent, sweeping deck-level tracking, a brief slow-motion fall, a continuous victim trajectory, a close-up of the hero's determined face, and a dramatic camera dive underwater. Use realistic gravity, water displacement, fabric deformation, bubbles, spray, natural motion blur, volumetric cyan beams, violet caustics, and extraordinary environmental scale.
+
+**SOUND:** Roaring wind, strained sailcloth, vibrating rigging, groaning timber, a thunderous wave impact, the victim's splash, urgent rescue shouts, deep cinematic bass, and rising orchestral percussion.
+
+**CONTINUITY:** The victim falls over the rear stern, not the bow. The heavy-built hero physically dives from the same boat. The lean mathematician stays aboard. The cloth sail stays attached to its mast. End with the hero entering the water; do not show the rescue already completed.
+
+**NEGATIVE PROMPT:** No cartoon graphics, no plastic-looking water, no face morphing, no duplicated people, no changing clothes, no disappearing boat, no detached sail, no teleportation, no unexplained underwater appearance, no additional victims in this first clip, no malformed anatomy, and no premature rescue.
+
+### SNIPPET 2 — THE UNDERWATER WORLD INSIDE THE TORNADO
+
+**COPY-READY VIDEO GENERATION PROMPT — THE 212 AGENTS: THE GREAT WHIRLPOOL RESCUE — PART 2: DESCENT INTO THE IMPOSSIBLE**
+
+**DURATION:** Exactly 10 seconds. **ASPECT RATIO:** 16:9. **STYLE:** Ultra-photorealistic underwater science-fiction action, monumental fluid simulation, extreme environmental scale, Hollywood creature realism, intricate cybernetic VFX, volumetric underwater light, realistic turbulence, and IMAX-quality cinematic photography.
+
+**CONTINUITY AND IDENTITY LOCK:** Continue immediately from Part 1. Use the identical supplied reference photographs for Character A, the heavy-built adult Tamil hero, and Character B, the lean adult Tamil mathematician. Preserve their exact recognizable identities, clothing, skin tones, apparent ages, physiques, and proportions. Character C remains the same young adult in a soaked red shirt and dark trousers. Character A has just dived from the rear of the same traditional wooden sailboat. Do not reset the story, alter the actors, or teleport anybody. Maintain the cyan-violet palette and the same gigantic cyber whirlpool.
+
+**00:00–00:02 — BREAK THROUGH THE SURFACE:** Start underwater at the precise point where Part 1 ended. The camera follows Character A beneath the foamy surface. Thousands of bubbles race past the lens as a monumental spiral of water rotates overhead. Through the distorted surface, the wooden sailboat is briefly visible above, its rear stern, mast, and billowing cloth sail recognizable. Character A swims forward, following the red-shirted Character C, whose body is being swept along the vortex. A luminous red trajectory line coils through the water to indicate the victim's path.
+
+**00:02–00:05 — THE HIDDEN SCALE OF THE VORTEX:** The camera accelerates into an enormous underwater spiral tunnel. Reveal that this is no ordinary whirlpool: the vortex contains a surreal, vast trapped world. Several colossal modern skyscrapers and historic stone buildings rotate slowly inside transparent spiraling bands of water, suspended at different depths. Towering buildings tilt dramatically but remain intact. An enormous herd of elephants is trapped inside a broad rotating current, with individual elephants clearly distinguishable and moving naturally in the water. A gigantic school of luminous particles streams past the lens. Every object follows a coherent spiral path around the central vortex, giving the scene a powerful sense of mathematical order and terrifying scale.
+
+**00:05–00:08 — THE BLUE WHALES AND GODZILLA REVEAL:** The camera rolls gracefully around the vortex axis and emerges into a vast underwater chamber illuminated by cyan shafts and violet refraction. Multiple enormous blue whales swim slowly within a giant circulating current, their realistic baleen-whale anatomy, mottled blue skin, fins, and tails illuminated by shafts of light. Beyond them, reveal an immense fictional Godzilla-like giant reptilian kaiju, unmistakably gigantic, with rugged charcoal scales and dimly glowing cyan dorsal plates. The creature is trapped within concentric spiraling water currents and rotating energy bands, struggling to turn toward the open central passage. Keep its body anatomically coherent and fully separate from the whales. The whales, elephants, buildings, and giant reptile remain distinct, without merging or changing shape.
+
+**00:08–00:10 — THE HERO FINDS THE VICTIM:** Cut back to Character A swimming urgently through the turbulent water. Far ahead, the red-shirted Character C is carried around a spiraling rock-and-water formation. The hero follows the exact red trajectory, stretches forward, and reaches toward Character C's upper arm, coming within arm's length just before the cut. A massive rotating wall of bubbles sweeps between the camera and the two men. End with the hero almost reaching the victim, both still underwater and clearly visible through the bubbles. Do not complete the rescue in this clip.
+
+**UNDERWATER CINEMATOGRAPHY:** Smooth 360-degree orbital movement around the vortex, extreme wide shots to establish scale, fast forward tracking behind the hero, sweeping parallax around the skyscrapers, and a breathtaking reveal of the whales and kaiju. Transition back to a tight rescue-oriented shot before the final frame. Preserve spatial orientation and the red-shirted victim's visible trajectory throughout.
+
+**VFX AND PHYSICS:** Highly detailed underwater particulate simulation, realistic bubbles and pressure-driven currents, plausible caustics, subsurface light scattering, suspended foam, refraction, volumetric god rays, surface turbulence visible above, cyan wireframe geometry, violet energy spirals, and a red laser-like path anchored to the victim's actual route. The buildings and giant creatures are fantastical elements in a fictional science-fiction world, but their surfaces, lighting, scale, and motion must be cinematic and convincing.
+
+**SOUND:** Muffled underwater thunder, deep resonant water pulses, descending orchestral strings, whale-like calls, low-frequency creature rumbling, rushing bubbles, and a building heroic motif.
+
+**NEGATIVE PROMPT:** No flat blue background, no cartoon elephants, no miniature skyscrapers, no ordinary-sized Godzilla, no merged creatures, no duplicated whales, no distorted whale anatomy, no people changing faces, no teleporting hero, no sudden change of location, no floating objects with no coherent movement, no text covering the action, and no completed rescue.
+
+**FINAL FRAME:** Character A is underwater, almost reaching Character C, with the colossal underwater tornado and its trapped buildings, elephants, blue whales, and giant reptilian kaiju visible as a monumental layered environment behind them.
+
+### SNIPPET 3 — THE GREAT RESCUE AND THE ESCAPE ROUTE
+
+**COPY-READY VIDEO GENERATION PROMPT — THE 212 AGENTS: THE GREAT WHIRLPOOL RESCUE — PART 3: THE SPIRAL RESCUE**
+
+**DURATION:** Exactly 10 seconds. **ASPECT RATIO:** 16:9. **STYLE:** Ultra-photorealistic live-action science-fiction blockbuster, extraordinary underwater cinematography, colossal rotating fluid structures, cinematic creature VFX, physically inspired human movement, dramatic rescue choreography, cyan-violet lighting, realistic wooden sailing vessel, and spectacular orchestral climax.
+
+**MANDATORY CONTINUITY:** Start on the exact final composition of Part 2. The same heavy-built adult Tamil hero, Character A, is about to reach the same young adult Character C wearing a soaked vivid red shirt and dark trousers. Use the original supplied photographs to preserve the exact identities of Character A and the lean adult Tamil mathematician, Character B. Preserve their faces, clothes, skin tones, body proportions, and apparent ages. Character C remains a young adult. No face swapping, morphing, de-aging, or wardrobe changes.
+
+**00:00–00:03 — THE GRIP:** Continue the underwater chase without a scene reset. Character A pushes forward through a powerful spiraling current and firmly grabs Character C by the upper arm and shoulder. Character C reaches back and secures a grip on the hero. A rotating surge pulls them sideways, but the hero wraps one arm around Character C's upper torso and keeps his head directed toward the brighter upper water. Show real physical contact, effort, resistance, bubbles, and water displacement. Their bodies remain distinct and anatomically consistent.
+
+**00:03–00:05 — THE TRAPPED WORLD AND THE ESCAPE CHANNEL:** The camera arcs around the pair, revealing skyscrapers and historic buildings spiraling through the huge underwater vortex, elephants rotating in a distant current, and enormous blue whales passing between cyan shafts of light. Farther away, the gigantic fictional Godzilla-like reptile remains trapped in a broad circular current, its cyan dorsal plates glowing through the haze. A bright, open spiral channel appears above and outside the vortex, formed by a huge natural-looking hole in the rotating water. It leads toward the distant surface and the original sailboat. A luminous red line now curves from the two men toward this opening, showing their potential escape trajectory. The hole is visibly part of the vortex's geometry, not a portal or a sudden teleportation effect.
+
+**00:05–00:08 — ASCENT THROUGH THE SPIRAL:** Character A supports Character C and swims diagonally upward toward the great circular opening. The camera travels beside them, then rotates underneath to show the vast underwater tornado spiraling below. The red-shirted victim remains supported and identifiable; bubbles stream from both men. The distant buildings, elephants, whales, and giant reptile continue circulating in the vortex, their scale emphasized by tiny flecks of foam and light. Cyan rings rotate around the outside of the channel, while violet illumination reflects off their wet clothing. The camera reveals the wooden sailboat near the brighter surface, its stern and intact cloth sail visible through the turbulent water.
+
+**00:08–00:10 — THE HEROIC CLIFFHANGER:** Rise with the two men toward the underside of the surface. Character A keeps Character C's head above the approaching waterline as their bodies reach the outer edge of the vortex's central passage. Above them, the traditional wooden sailboat rocks near the stern; Character B leans over the rear rail with a securely held rescue rope ready to assist. A huge spiral of cyan and violet water towers behind the vessel like a rotating cathedral. In the final second, use a stunning underwater wide shot looking upward through the enormous circular opening: the two rescued men are together in the foreground, the sailboat waits above them, and the colossal vortex—with its trapped buildings and gigantic silhouettes of whales and the reptilian kaiju—fills the background. Character A is successfully holding Character C, but they have not yet climbed aboard. End at exactly 00:10 with the rescue underway and escape still imminent.
+
+**CINEMATOGRAPHY:** Begin with a close-up of the grip, swing into a sweeping 360-degree orbital shot, pull back to reveal the trapped world, then follow the ascent from below. Finish with a monumental underwater view through the vortex opening. Maintain believable camera continuity, accurate perspective, coherent motion blur, and clear separation between the characters and enormous background objects.
+
+**VISUAL EFFECTS:** Physically inspired fluid simulation, dense bubbles, refracted surface light, volumetric beams, detailed water caustics, transparent cyan ring structures, violet energy arcs, realistic skin and wet-fabric textures, and a subtle red trajectory guide. Use spectacular scale without obscuring the characters or turning the scene into animation.
+
+**SOUND DESIGN:** Deep turbulent rumble, rushing bubbles, distant whale calls, a subdued kaiju roar, urgent orchestral strings during the ascent, rising brass as the boat appears, and a powerful suspenseful musical sting at the end.
+
+**STRICT NEGATIVE PROMPT:** No face morphing, no identity swapping, no extra limbs, no duplicated bodies, no merged creatures, no disappearing buildings, no miniature whales, no child characters, no teleportation, no magical instant ascent, no change to the wooden boat, no detached cloth sail, no random direction changes, no flat or static water, no text overlays, and no boarding before the final frame.
+
+**FINAL INSTRUCTION:** Generate exactly 10 seconds showing a continuous underwater rescue, a clearly visible spiral escape channel, the hero supporting the red-shirted adult, and the original sailboat waiting near the surface. Preserve the same identity references, water direction, costume details, cinematic color palette, and spatial continuity established in the previous two clips.
+
+Editing tip: Generate each snippet separately using the same character reference photographs and, where the video generator supports it, the previous clip's final frame as the next clip's starting frame. Join them in the order Part 1 → Part 2 → Part 3. Each clip has its own 10-second timeline, creating a combined 30-second sequence.
+
+Below are three separate, copy-ready 10-second video prompts. Each starts at 00:00 and ends at 00:10, so you can generate three clips and combine them into one 30-second cinematic sequence. The story progresses from the sailboat accident, through the underwater whirlpool, to the discovery of the trapped megastructures and creatures, with the hero beginning the rescue.
+
+### SNIPPET 1 — THE FALL INTO THE CYBER WHIRLPOOL
+
+**COPY-READY VIDEO GENERATION PROMPT — THE 212 AGENTS: THE GREAT WHIRLPOOL RESCUE — PART 1: THE FALL**
+
+**DURATION:** Exactly 10 seconds. **ASPECT RATIO:** 16:9. **STYLE:** Ultra-photorealistic Hollywood science-fiction blockbuster, IMAX-scale cinematography, physically convincing water simulation, monumental Roman Colosseum, spectacular cyan and violet cybernetic VFX, dramatic volumetric lighting, realistic human movement, intricate fluid dynamics, and thunderous orchestral sound.
+
+**CHARACTER IDENTITY LOCK:** Use the supplied original photographs as the exact identity references for Character A, the heavy-built adult Tamil hero, and Character B, the lean adult Tamil mathematician. Preserve their recognizable faces, skin tones, hairstyles, apparent ages, clothing, physiques, and body proportions. Character C is a distinct young adult Tamil man, approximately 20–25 years old, wearing a vivid red shirt and dark trousers. All three remain separate, recognizable adults. No face swapping, morphing, artificial aging, or body-shape changes.
+
+**00:00–00:03 — MONUMENTAL ESTABLISHING SHOT:** Open above a colossal ancient Roman Colosseum surrounding an impossibly huge, rotating cybernetic washing-machine whirlpool. The camera dives rapidly between monumental stone arches toward the gigantic circular water vortex. Concentric cyan energy rings, violet lightning-like reflections, translucent scientific holograms, and animated Navier–Stokes-inspired equations illuminate towering walls of water. A traditional wooden sailing vessel struggles near the outer rim, with a clearly visible wooden hull, rear stern rail, mast, ropes, and enormous woven-cloth sail. The sail billows violently in the wind.
+
+**00:03–00:06 — THE ACCIDENT:** Cut to a dynamic tracking shot along the boat's deck. Character B grips the rigging while Character A turns toward the violent waves. Character C stands beside the clearly identifiable REAR STERN RAIL. An enormous gust suddenly inflates the sail; the ropes tighten and the hull pitches sideways as a turbulent wave strikes. Character C loses his balance, reaches for the wooden stern rail, misses it, and falls backward over the BACK OF THE BOAT. Show his entire body crossing the rear rail. His vivid red shirt remains clearly visible. Do not cut away before the fall is understood.
+
+**00:06–00:08 — IMPACT AND TRAJECTORY:** The camera follows Character C downward in one continuous movement. He strikes the rotating water behind the stern, producing an enormous physically simulated crown splash, exploding droplets, white foam, and concentric impact waves. The vortex catches him and begins carrying him along a visible spiral trajectory toward the darker inner region. A thin luminous red trajectory line briefly traces his actual movement over the water, following the spiral rather than appearing randomly.
+
+**00:08–00:10 — THE HERO COMMITS:** Character A rushes to the rear rail, looks down, grips the wet wood, and climbs over the stern. In a powerful low-angle shot, he launches himself into the whirlpool after Character C. Show his feet leaving the boat and his body descending toward the water. Character B remains aboard and reaches for a rescue rope. Finish with Character A entering the water in a spectacular splash, the camera plunging through the surface directly behind him.
+
+**CAMERA AND VFX:** Rapid aerial descent, sweeping deck-level tracking, a brief slow-motion fall, a continuous victim trajectory, a close-up of the hero's determined face, and a dramatic camera dive underwater. Use realistic gravity, water displacement, fabric deformation, bubbles, spray, natural motion blur, volumetric cyan beams, violet caustics, and extraordinary environmental scale.
+
+**SOUND:** Roaring wind, strained sailcloth, vibrating rigging, groaning timber, a thunderous wave impact, the victim's splash, urgent rescue shouts, deep cinematic bass, and rising orchestral percussion.
+
+**CONTINUITY:** The victim falls over the rear stern, not the bow. The heavy-built hero physically dives from the same boat. The lean mathematician stays aboard. The cloth sail stays attached to its mast. End with the hero entering the water; do not show the rescue already completed.
+
+**NEGATIVE PROMPT:** No cartoon graphics, no plastic-looking water, no face morphing, no duplicated people, no changing clothes, no disappearing boat, no detached sail, no teleportation, no unexplained underwater appearance, no additional victims in this first clip, no malformed anatomy, and no premature rescue.
+
+### SNIPPET 2 — THE UNDERWATER WORLD INSIDE THE TORNADO
+
+**COPY-READY VIDEO GENERATION PROMPT — THE 212 AGENTS: THE GREAT WHIRLPOOL RESCUE — PART 2: DESCENT INTO THE IMPOSSIBLE**
+
+**DURATION:** Exactly 10 seconds. **ASPECT RATIO:** 16:9. **STYLE:** Ultra-photorealistic underwater science-fiction action, monumental fluid simulation, extreme environmental scale, Hollywood creature realism, intricate cybernetic VFX, volumetric underwater light, realistic turbulence, and IMAX-quality cinematic photography.
+
+**CONTINUITY AND IDENTITY LOCK:** Continue immediately from Part 1. Use the identical supplied reference photographs for Character A, the heavy-built adult Tamil hero, and Character B, the lean adult Tamil mathematician. Preserve their exact recognizable identities, clothing, skin tones, apparent ages, physiques, and proportions. Character C remains the same young adult in a soaked red shirt and dark trousers. Character A has just dived from the rear of the same traditional wooden sailboat. Do not reset the story, alter the actors, or teleport anybody. Maintain the cyan-violet palette and the same gigantic cyber whirlpool.
+
+**00:00–00:02 — BREAK THROUGH THE SURFACE:** Start underwater at the precise point where Part 1 ended. The camera follows Character A beneath the foamy surface. Thousands of bubbles race past the lens as a monumental spiral of water rotates overhead. Through the distorted surface, the wooden sailboat is briefly visible above, its rear stern, mast, and billowing cloth sail recognizable. Character A swims forward, following the red-shirted Character C, whose body is being swept along the vortex. A luminous red trajectory line coils through the water to indicate the victim's path.
+
+**00:02–00:05 — THE HIDDEN SCALE OF THE VORTEX:** The camera accelerates into an enormous underwater spiral tunnel. Reveal that this is no ordinary whirlpool: the vortex contains a surreal, vast trapped world. Several colossal modern skyscrapers and historic stone buildings rotate slowly inside transparent spiraling bands of water, suspended at different depths. Towering buildings tilt dramatically but remain intact. An enormous herd of elephants is trapped inside a broad rotating current, with individual elephants clearly distinguishable and moving naturally in the water. A gigantic school of luminous particles streams past the lens. Every object follows a coherent spiral path around the central vortex, giving the scene a powerful sense of mathematical order and terrifying scale.
+
+**00:05–00:08 — THE BLUE WHALES AND GODZILLA REVEAL:** The camera rolls gracefully around the vortex axis and emerges into a vast underwater chamber illuminated by cyan shafts and violet refraction. Multiple enormous blue whales swim slowly within a giant circulating current, their realistic baleen-whale anatomy, mottled blue skin, fins, and tails illuminated by shafts of light. Beyond them, reveal an immense fictional Godzilla-like giant reptilian kaiju, unmistakably gigantic, with rugged charcoal scales and dimly glowing cyan dorsal plates. The creature is trapped within concentric spiraling water currents and rotating energy bands, struggling to turn toward the open central passage. Keep its body anatomically coherent and fully separate from the whales. The whales, elephants, buildings, and giant reptile remain distinct, without merging or changing shape.
+
+**00:08–00:10 — THE HERO FINDS THE VICTIM:** Cut back to Character A swimming urgently through the turbulent water. Far ahead, the red-shirted Character C is carried around a spiraling rock-and-water formation. The hero follows the exact red trajectory, stretches forward, and reaches toward Character C's upper arm, coming within arm's length just before the cut. A massive rotating wall of bubbles sweeps between the camera and the two men. End with the hero almost reaching the victim, both still underwater and clearly visible through the bubbles. Do not complete the rescue in this clip.
+
+**UNDERWATER CINEMATOGRAPHY:** Smooth 360-degree orbital movement around the vortex, extreme wide shots to establish scale, fast forward tracking behind the hero, sweeping parallax around the skyscrapers, and a breathtaking reveal of the whales and kaiju. Transition back to a tight rescue-oriented shot before the final frame. Preserve spatial orientation and the red-shirted victim's visible trajectory throughout.
+
+**VFX AND PHYSICS:** Highly detailed underwater particulate simulation, realistic bubbles and pressure-driven currents, plausible caustics, subsurface light scattering, suspended foam, refraction, volumetric god rays, surface turbulence visible above, cyan wireframe geometry, violet energy spirals, and a red laser-like path anchored to the victim's actual route. The buildings and giant creatures are fantastical elements in a fictional science-fiction world, but their surfaces, lighting, scale, and motion must be cinematic and convincing.
+
+**SOUND:** Muffled underwater thunder, deep resonant water pulses, descending orchestral strings, whale-like calls, low-frequency creature rumbling, rushing bubbles, and a building heroic motif.
+
+**NEGATIVE PROMPT:** No flat blue background, no cartoon elephants, no miniature skyscrapers, no ordinary-sized Godzilla, no merged creatures, no duplicated whales, no distorted whale anatomy, no people changing faces, no teleporting hero, no sudden change of location, no floating objects with no coherent movement, no text covering the action, and no completed rescue.
+
+**FINAL FRAME:** Character A is underwater, almost reaching Character C, with the colossal underwater tornado and its trapped buildings, elephants, blue whales, and giant reptilian kaiju visible as a monumental layered environment behind them.
+
+### SNIPPET 3 — THE GREAT RESCUE AND THE ESCAPE ROUTE
+
+**COPY-READY VIDEO GENERATION PROMPT — THE 212 AGENTS: THE GREAT WHIRLPOOL RESCUE — PART 3: THE SPIRAL RESCUE**
+
+**DURATION:** Exactly 10 seconds. **ASPECT RATIO:** 16:9. **STYLE:** Ultra-photorealistic live-action science-fiction blockbuster, extraordinary underwater cinematography, colossal rotating fluid structures, cinematic creature VFX, physically inspired human movement, dramatic rescue choreography, cyan-violet lighting, realistic wooden sailing vessel, and spectacular orchestral climax.
+
+**MANDATORY CONTINUITY:** Start on the exact final composition of Part 2. The same heavy-built adult Tamil hero, Character A, is about to reach the same young adult Character C wearing a soaked vivid red shirt and dark trousers. Use the original supplied photographs to preserve the exact identities of Character A and the lean adult Tamil mathematician, Character B. Preserve their faces, clothes, skin tones, body proportions, and apparent ages. Character C remains a young adult. No face swapping, morphing, de-aging, or wardrobe changes.
+
+**00:00–00:03 — THE GRIP:** Continue the underwater chase without a scene reset. Character A pushes forward through a powerful spiraling current and firmly grabs Character C by the upper arm and shoulder. Character C reaches back and secures a grip on the hero. A rotating surge pulls them sideways, but the hero wraps one arm around Character C's upper torso and keeps his head directed toward the brighter upper water. Show real physical contact, effort, resistance, bubbles, and water displacement. Their bodies remain distinct and anatomically consistent.
+
+**00:03–00:05 — THE TRAPPED WORLD AND THE ESCAPE CHANNEL:** The camera arcs around the pair, revealing skyscrapers and historic buildings spiraling through the huge underwater vortex, elephants rotating in a distant current, and enormous blue whales passing between cyan shafts of light. Farther away, the gigantic fictional Godzilla-like reptile remains trapped in a broad circular current, its cyan dorsal plates glowing through the haze. A bright, open spiral channel appears above and outside the vortex, formed by a huge natural-looking hole in the rotating water. It leads toward the distant surface and the original sailboat. A luminous red line now curves from the two men toward this opening, showing their potential escape trajectory. The hole is visibly part of the vortex's geometry, not a portal or a sudden teleportation effect.
+
+**00:05–00:08 — ASCENT THROUGH THE SPIRAL:** Character A supports Character C and swims diagonally upward toward the great circular opening. The camera travels beside them, then rotates underneath to show the vast underwater tornado spiraling below. The red-shirted victim remains supported and identifiable; bubbles stream from both men. The distant buildings, elephants, whales, and giant reptile continue circulating in the vortex, their scale emphasized by tiny flecks of foam and light. Cyan rings rotate around the outside of the channel, while violet illumination reflects off their wet clothing. The camera reveals the wooden sailboat near the brighter surface, its stern and intact cloth sail visible through the turbulent water.
+
+**00:08–00:10 — THE HEROIC CLIFFHANGER:** Rise with the two men toward the underside of the surface. Character A keeps Character C's head above the approaching waterline as their bodies reach the outer edge of the vortex's central passage. Above them, the traditional wooden sailboat rocks near the stern; Character B leans over the rear rail with a securely held rescue rope ready to assist. A huge spiral of cyan and violet water towers behind the vessel like a rotating cathedral. In the final second, use a stunning underwater wide shot looking upward through the enormous circular opening: the two rescued men are together in the foreground, the sailboat waits above them, and the colossal vortex—with its trapped buildings and gigantic silhouettes of whales and the reptilian kaiju—fills the background. Character A is successfully holding Character C, but they have not yet climbed aboard. End at exactly 00:10 with the rescue underway and escape still imminent.
+
+**CINEMATOGRAPHY:** Begin with a close-up of the grip, swing into a sweeping 360-degree orbital shot, pull back to reveal the trapped world, then follow the ascent from below. Finish with a monumental underwater view through the vortex opening. Maintain believable camera continuity, accurate perspective, coherent motion blur, and clear separation between the characters and enormous background objects.
+
+**VISUAL EFFECTS:** Physically inspired fluid simulation, dense bubbles, refracted surface light, volumetric beams, detailed water caustics, transparent cyan ring structures, violet energy arcs, realistic skin and wet-fabric textures, and a subtle red trajectory guide. Use spectacular scale without obscuring the characters or turning the scene into animation.
+
+**SOUND DESIGN:** Deep turbulent rumble, rushing bubbles, distant whale calls, a subdued kaiju roar, urgent orchestral strings during the ascent, rising brass as the boat appears, and a powerful suspenseful musical sting at the end.
+
+**STRICT NEGATIVE PROMPT:** No face morphing, no identity swapping, no extra limbs, no duplicated bodies, no merged creatures, no disappearing buildings, no miniature whales, no child characters, no teleportation, no magical instant ascent, no change to the wooden boat, no detached cloth sail, no random direction changes, no flat or static water, no text overlays, and no boarding before the final frame.
+
+**FINAL INSTRUCTION:** Generate exactly 10 seconds showing a continuous underwater rescue, a clearly visible spiral escape channel, the hero supporting the red-shirted adult, and the original sailboat waiting near the surface. Preserve the same identity references, water direction, costume details, cinematic color palette, and spatial continuity established in the previous two clips.
+
+Editing tip: Generate each snippet separately using the same character reference photographs and, where the video generator supports it, the previous clip's final frame as the next clip's starting frame. Join them in the order Part 1 → Part 2 → Part 3. Each clip has its own 10-second timeline, creating a combined 30-second sequence.
+
