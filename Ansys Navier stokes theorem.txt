@@ -1,0 +1,533 @@
+Navier stokes theorem 
+
+
+PROJECT TITLE: NAVIER–STOKES — THE VAIGAI RIVER VORTEX: FROM ENGINEERING SIMULATION TO GALAXIES
+ 
+TOTAL DURATION: Exactly 20 seconds.
+ 
+FORMAT: 4K UHD, 3840 × 2160, 16:9 landscape, 24 fps. Photorealistic Tamil science documentary with cinematic engineering visualisations, realistic fluid physics, authentic ANSYS Fluent-style interfaces, scientifically meaningful equations, space-science imagery, and natural Tamil dialogue.
+ 
+CORE STORY: In precisely 20 seconds, two Tamil men discuss how Navier–Stokes equations connect mathematical theory with practical computational fluid dynamics. The red-shirt man asks whether ANSYS CFD can verify the equations. The black-shirt man explains that theoretical analysis and practical numerical models complement each other but are not interchangeable with a rigorous mathematical proof. The sequence progresses from a computer simulation of the Vaigai River to engineering applications and then to gas dynamics and galaxy-scale phenomena. Finish with the lesson that fluids include both liquids and gases, and that mathematical models help engineers and scientists understand flow.
+ 
+CHARACTER A — BLACK-SHIRT TAMIL MAN, THE EXPLAINER:
+ 
+Use the exact supplied reference photograph of the moderately fat, naturally stocky adult Tamil man wearing a plain black shirt. Preserve his original face, skin tone, rounded facial structure, hairstyle, eyebrows, eyes, nose, mouth, age appearance, body proportions, and facial hair if present. He has a broad torso and a naturally prominent belly consistent with the reference photograph. Do not exaggerate his weight, slim him, make him muscular, change his age, or substitute another face.
+ 
+He wears the same plain black shirt and dark trousers throughout the video. His appearance must remain consistent in the laboratory, riverside, engineering visualisation, and space-science transition. He is the knowledgeable explainer. His gestures are calm, technically confident, and educational.
+ 
+CHARACTER B — RED-SHIRT TAMIL MAN, THE LEARNER:
+ 
+Use the exact supplied reference photograph of the average-built adult Tamil man wearing a bright red shirt. Preserve his face, skin tone, hairstyle, facial structure, eyes, eyebrows, nose, mouth, age appearance, and natural body proportions. Do not make him resemble Character A.
+ 
+He wears the same bright red shirt and dark trousers in every shot. He is curious and attentive. He initiates the dialogue with a short question about ANSYS CFD. He listens while Character A explains, then follows the movement of the visualisation toward engineering and space applications.
+ 
+PERMANENT IDENTITY LOCK:
+ 
+The black-shirt photograph belongs exclusively to Character A. The red-shirt photograph belongs exclusively to Character B. Never exchange their faces, clothes, bodies, roles, voices, or dialogue. Use the actual reference photographs in every shot wherever the generation platform supports persistent character references. Preserve the identity in close-ups, wide shots, side profiles, reflections, monitor displays, and the final composition.
+ 
+No face morphing, identity drift, body transformation, duplicated people, sudden ageing, exaggerated weight changes, clothing changes, or generic replacement faces. When complex simulations make the characters difficult to render consistently, simplify the environment rather than sacrificing identity.
+ 
+TIMELINE — 00:00–00:05: THE VAIGAI RIVER AND THE MATHEMATICAL MODEL.
+ 
+Begin with a close-up of a professional engineering workstation in a realistic laboratory beside the Vaigai River in Madurai. The monitor shows a three-dimensional computational mesh representing a river channel. Display coherent velocity contours, streamlines, and a small recirculating eddy. Use a scientifically plausible engineering visualisation rather than a magical vortex.
+ 
+Cut to both reference-locked characters. The red-shirt man looks at the display and asks in natural, brisk Tamil:
+ 
+“சார், ANSYS CFD-யில் Navier–Stokes-ஐச் சோதிக்கலாமா?”
+ 
+English meaning: “Sir, can we test Navier–Stokes using ANSYS CFD?”
+ 
+Only Character B speaks. Character A listens naturally. His mouth remains still while the red-shirt man talks.
+ 
+TIMELINE — 00:05–00:10: THEORY VERSUS PRACTICAL CFD.
+ 
+Character A gestures toward the screen, where the numerical mesh changes into a clean mathematical panel.
+ 
+He replies in clear Tamil:
+ 
+“முடியும்! Theory கணிதத்தை விளக்கும்; CFD ஓட்டத்தைக் கணிக்கும்!”
+ 
+English meaning: “Yes! Theory explains the mathematics; CFD predicts the flow!”
+ 
+Show a clean Navier–Stokes equation on the display:
+ 
+ρ(∂u/∂t + u·∇u) = −∇p + μ∇²u + ρf
+ 
+Add the incompressible continuity equation:
+ 
+∇·u = 0
+ 
+Label the panel “THEORETICAL MODEL” and the numerical workstation “PRACTICAL CFD MODEL”.
+ 
+The equation must remain legible, correctly typeset, and mathematically consistent with the incompressible Newtonian fluid formulation shown. Use post-production typography instead of relying on the video generator to reproduce symbols.
+ 
+TIMELINE — 00:10–00:14: ENGINEERING APPLICATIONS.
+ 
+Transition rapidly but coherently through three engineering examples:
+ 
+1. A realistic automobile or aircraft aerodynamic simulation showing airflow around a body, with pressure contours and a wake.
+2. A turbine or industrial pipe showing internal fluid flow, pressure loss, and recirculation.
+3. A thermal-management simulation showing air moving across a heat sink or around an electronic component.
+
+ 
+Use accurate-looking engineering geometry and coherent velocity or pressure fields. These are illustrative computational models, not verified experimental measurements.
+ 
+Display three brief labels: “AERODYNAMICS”, “TURBINES &amp; PIPES”, and “HEAT TRANSFER”.
+ 
+The black-shirt man remains the explainer. The red-shirt man watches with genuine curiosity. Avoid adding dialogue that would crowd the timeline.
+ 
+TIMELINE — 00:14–00:17: GASES, AIR, AND SPACE.
+ 
+The engineering visualisation expands into a clean scientific transition from air moving around an aircraft to a large-scale astronomical gas structure. Show a realistic astrophysical gas cloud or a galaxy-scale gas-flow simulation with luminous gas structures, gravitationally influenced motion, and restrained scientific overlays.
+ 
+Display the statement:
+ 
+“FLUIDS = LIQUIDS + GASES”
+ 
+Then display:
+ 
+“AIR IS A GAS — AND A FLUID.”
+ 
+The imagery must make clear that fluid mechanics includes liquids and gases. The equations used in a specific model depend on the fluid regime and physical assumptions.
+ 
+Do not imply that an ordinary incompressible water-flow simulation can directly model an entire galaxy. Explain visually that astrophysical gas requires appropriate compressible-flow, gravitational, thermodynamic, and sometimes magnetic-field models. A galaxy is not merely a giant river.
+ 
+TIMELINE — 00:17–00:20: THE FINAL SCIENTIFIC LESSON.
+ 
+Return briefly to the Vaigai River, with both men looking toward the moving water. The black-shirt man gives the final short line in Tamil:
+ 
+“ஆனால், simulation மட்டும் mathematical proof அல்ல!”
+ 
+English meaning: “But a simulation alone is not a mathematical proof!”
+ 
+Show the final title:
+ 
+“NAVIER–STOKES: FROM ANSYS TO THE COSMOS”
+ 
+Tamil subtitle:
+ 
+“திரவ ஓட்டம் • பொறியியல் • பிரபஞ்சம்”
+ 
+The title appears over a realistic river background while a subtle visual echo of the engineering mesh fades away. Finish at exactly 00:20, with no extra logo animation or extended ending.
+ 
+SCIENTIFIC ACCURACY:
+ 
+The Navier–Stokes equations describe momentum conservation in fluid motion under specified physical assumptions. For a constant-density, incompressible Newtonian fluid, the displayed momentum equation and continuity equation provide a standard formulation.
+ 
+A theoretical model starts with governing equations, assumptions, boundary conditions, initial conditions, and mathematical analysis. A practical ANSYS Fluent simulation discretises suitable governing equations and solves the resulting numerical problem using selected mesh, solver settings, models, and convergence criteria.
+ 
+Practical verification and validation require appropriate checks. Mesh refinement, time-step refinement, residual monitoring, conservation balances, benchmark comparisons, and comparison with experimental or analytical results help evaluate the numerical solution. Convergence alone does not guarantee physical accuracy.
+ 
+ANSYS CFD does not, by itself, prove the global existence and smoothness of three-dimensional Navier–Stokes solutions or establish finite-time blow-up for the general mathematical problem. A numerical result concerns a specified computational setup; a mathematical proof must establish the precise theorem under its stated assumptions.
+ 
+Engineering applications include aerodynamics, turbomachinery, industrial piping, thermal management, combustion modelling, environmental flow, river hydraulics, and multiphase systems. The equations and numerical methods must be adapted to the physics involved.
+ 
+Liquids and gases are fluids because they can flow and deform continuously under applied shear. Air is a gas and therefore a fluid. Plasmas can also be treated as fluids in suitable models. Astrophysical gas dynamics may use compressible hydrodynamics or magnetohydrodynamics coupled with gravity, energy transport, and additional physics when needed.
+ 
+Do not claim that Navier–Stokes alone explains every aspect of a galaxy. Use the galaxy visualisation as an example of fluid-based modelling within a broader physical framework.
+ 
+VISUAL STYLE:
+ 
+Photorealistic documentary cinematography, realistic Tamil Nadu daylight, physically plausible water, authentic-looking engineering geometry, coherent CFD colour contours, clean scientific overlays, restrained blue and cyan accents, and natural skin texture.
+ 
+Use a monitor close-up, a stable medium two-shot, a brief mathematical display, fast but readable engineering transitions, an astrophysical gas visualisation, and a final river composition.
+ 
+The visualisation must be bounded by the monitor or a clear scientific display. The actual Vaigai River must not transform into an enormous vortex or catastrophic flood.
+ 
+AUDIO:
+ 
+Use natural adult male Tamil voices with clear pronunciation and distinguishable speaker identities. Character B asks the question. Character A gives both explanatory answers. Preserve the order and avoid overlapping speech.
+ 
+Use subtle river ambience, low laboratory room tone, restrained cinematic music, and quiet interface sounds. Dialogue must remain intelligible on a phone speaker.
+ 
+NEGATIVE PROMPT:
+ 
+No identity swapping, no face morphing, no clothing changes, no body distortion, no third speaking character, no unreadable mathematical symbols, no fabricated ANSYS results, no false experimental measurements, no claim that simulation equals proof, no claim that a single CFD run proves the Navier–Stokes Millennium Prize problem, no physically impossible water behaviour, no misleading galaxy physics, no loud music over speech, no invented scientific endorsements, no incorrect Tamil subtitles, and no runtime longer than 20 seconds.
+ 
+FINAL OUTPUT:
+ 
+One 20-second continuous cinematic sequence, 4K UHD, 16:9 landscape, 24 fps. Preserve the exact black-shirt and red-shirt reference identities. Maintain the dialogue order. Explain theoretical and practical CFD, show meaningful engineering applications, connect gas dynamics to astrophysical modelling without overclaiming, and finish with the distinction between numerical simulation and rigorous mathematical proof.
+
+
+PRODUCTION DETAIL 01 — EXACT 
+
+CHARACTER ASSIGNMENT
+ 
+Character A is always the moderately fat Tamil man wearing a black shirt. Character B is always the average-built Tamil man wearing a red shirt. These assignments are absolute and must remain unchanged in every frame. Character A provides the scientific explanations, and Character B asks the questions. The black-shirt character must not become the student while the red-shirt character becomes the lecturer. The dialogue, gestures, facial expressions, and camera framing must all reinforce this assignment.
+ 
+PRODUCTION DETAIL 02 — REFERENCE IMAGE PRIORITY
+ 
+Load the original black-shirt reference photograph into Character A's identity-reference slot. Load the original red-shirt reference photograph into Character B's identity-reference slot. Maintain these assignments throughout generation. If the video-generation system supports character IDs, reference-image weights, seed locking, or multi-shot identity continuity, use the same settings across all shots. Do not replace the actual reference photographs with generic Tamil male portraits.
+ 
+PRODUCTION DETAIL 03 — BLACK-SHIRT CHARACTER PHYSIQUE
+ 
+Preserve the black-shirt man's naturally stocky build and moderately fat appearance. The face must retain the rounded features visible in the supplied photograph. The torso, shoulders, arms, waist, and belly must remain in realistic proportion. Do not make him extremely obese, unnaturally bloated, slim, athletic, or muscular. Clothing folds must follow the body naturally. His build must not change when the camera moves from a medium shot to a close-up.
+ 
+PRODUCTION DETAIL 04 — RED-SHIRT CHARACTER PHYSIQUE
+ 
+Preserve the red-shirt man's average build. Keep his facial proportions, shoulder width, neck, arms, waist, and overall silhouette consistent with the reference photograph. Do not copy the black-shirt man's body shape. The bright red shirt and dark trousers remain unchanged. Ensure that the red shirt remains recognisably red under laboratory lighting, blue holographic reflections, and daylight.
+ 
+PRODUCTION DETAIL 05 — NATURAL TAMIL CONVERSATION
+ 
+The red-shirt man initiates the first question. The black-shirt man answers. The black-shirt man also delivers the final explanation. Do not invent extra dialogue, narration, or a third speaker. Keep the Tamil speech natural and concise. Technical English words such as ANSYS, CFD, Navier–Stokes, theory, simulation, and mathematical proof can be pronounced naturally within Tamil sentences.
+ 
+PRODUCTION DETAIL 06 — REALISTIC ANSYS ENVIRONMENT
+ 
+Create an engineering laboratory with a workstation, a large monitor, a keyboard, and a restrained professional interface. The software display should resemble an ANSYS Fluent computational fluid dynamics workflow without fabricating a real project result. Include a geometry window, computational mesh, velocity contour, pressure contour, and streamline visualisation as appropriate. If an authentic ANSYS interface is not available, use a generic professional CFD interface rather than a misleading screenshot.
+ 
+PRODUCTION DETAIL 07 — COMPUTATIONAL GEOMETRY
+ 
+The first simulation represents a simplified river channel. Display the computational domain with a clear inlet, outlet, and solid boundaries. Show the channel geometry in three dimensions, with a mesh that follows the walls and captures the main flow region. The mesh should be visibly numerical rather than a decorative wireframe. Keep the geometry simple enough for a viewer to recognise in less than a second.
+ 
+PRODUCTION DETAIL 08 — MESH QUALITY
+ 
+Represent a plausible finite-volume mesh using orderly cells or an unstructured mesh where appropriate. Near solid walls, the mesh may be refined to represent velocity gradients. Do not imply that every cell directly corresponds to an independent physical measurement. Mesh resolution is a numerical modelling choice, and adequate resolution depends on the governing equations, flow regime, turbulence treatment, geometry, and desired accuracy.
+ 
+PRODUCTION DETAIL 09 — VELOCITY CONTOURS
+ 
+Display velocity magnitude using a conventional scientific colour scale. The contour should vary smoothly across the computational domain. High-speed regions may be represented by warmer colours and lower-speed regions by cooler colours, provided the legend is consistent. Do not use random flickering colours or unsupported numerical values. If numerical values are displayed, they must be illustrative or obtained from a documented calculation.
+ 
+PRODUCTION DETAIL 10 — STREAMLINE VISUALISATION
+ 
+Show streamlines following a coherent flow field. They must not jump randomly, pass through solid walls, or violate the geometry. A recirculating region may appear downstream of a bend, obstacle, or expansion, provided the flow configuration supports it. Avoid portraying every curved streamline as a vortex. Keep the image scientifically plausible and visually readable.
+ 
+PRODUCTION DETAIL 11 — DISTINGUISHING VELOCITY FROM PRESSURE
+ 
+If pressure contours appear, identify them as pressure rather than speed. Do not use a single colour legend for two different physical quantities. A split display may show velocity magnitude on the left and static pressure on the right. The colour scales should be clearly distinguished. Avoid false precision and unreadable numerical legends.
+ 
+PRODUCTION DETAIL 12 — NAVIER–STOKES EQUATIONS
+ 
+The displayed momentum equation is the incompressible Newtonian form:
+ 
+ρ(∂u/∂t + u·∇u) = −∇p + μ∇²u + ρf
+ 
+The continuity equation is:
+ 
+∇·u = 0
+ 
+Here, ρ denotes density, u velocity, t time, p pressure, μ dynamic viscosity, and f body force per unit mass. This particular form assumes constant density and incompressible flow, with the standard Newtonian constitutive relation and suitable conditions. Do not imply that the same simplified equations directly describe every compressible gas flow, plasma, or astrophysical system.
+ 
+PRODUCTION DETAIL 13 — THEORETICAL MODEL
+ 
+The theoretical model should appear as a clean mathematical panel. Show the governing equations, the assumptions, initial conditions, and boundary conditions as organised components. Use a logical visual structure: physical assumptions, equations, boundary conditions, solution properties, and conclusions. Do not fabricate a detailed proof or claim that a few symbolic lines constitute a solution to the Millennium Prize problem.
+ 
+PRODUCTION DETAIL 14 — PRACTICAL MODEL
+ 
+The practical model should appear as a numerical workstation containing the mesh, solver controls, flow field, and convergence information. A simulation solves a computational approximation to a specified mathematical model. Its results depend on the discretisation, boundary conditions, material properties, numerical schemes, physical models, and solver settings. The practical model is useful precisely because it makes predictions that can be inspected and compared.
+ 
+PRODUCTION DETAIL 15 — THEORETICAL AND PRACTICAL COMPARISON
+ 
+The visual distinction should be immediate. The theoretical panel represents the equations and mathematical reasoning. The practical panel represents a numerical approximation and its computed output. Both are important, but they answer different questions. Theoretical analysis can establish general mathematical results under specified assumptions. CFD can estimate the behaviour of particular systems within the limits of the model and numerical method.
+ 
+PRODUCTION DETAIL 16 — ANSYS FLUENT WORKFLOW
+ 
+Represent the practical workflow as a sequence of geometry preparation, meshing, physics setup, solver configuration, numerical calculation, convergence evaluation, and post-processing. Do not imply that merely pressing the Calculate button proves a theorem. A credible simulation requires an appropriate physical model and carefully chosen numerical settings.
+ 
+PRODUCTION DETAIL 17 — BOUNDARY CONDITIONS
+ 
+Illustrate an inlet, outlet, and wall boundary where appropriate. Inlet velocity or mass flow, outlet pressure, and no-slip wall conditions may be suitable for an illustrative incompressible channel problem. The exact boundary conditions must match the physical problem being modelled. Do not use arbitrary settings and then imply that the result is a verified prediction of the real Vaigai River.
+ 
+PRODUCTION DETAIL 18 — MATERIAL PROPERTIES
+ 
+Show density and viscosity as model inputs if the screen has enough room. These properties must be consistent with the chosen fluid and operating conditions. Water, air, oils, and other fluids have different properties. Do not use water properties for air merely because both are fluids. Avoid unsupported numerical material values on the short display.
+ 
+PRODUCTION DETAIL 19 — STEADY AND TRANSIENT FLOW
+ 
+A steady-state calculation assumes that the relevant flow variables do not change with time at a fixed location. A transient calculation represents time-dependent behaviour. Vortices and unsteady wakes may require a transient simulation. Do not show time-varying physical flow while labelling it as a steady-state solution unless the animation is explicitly illustrating an iterative or convergence process.
+ 
+PRODUCTION DETAIL 20 — TURBULENCE MODELS
+ 
+The visualisation may reference RANS, LES, or DNS, but should not suggest that these methods are interchangeable. RANS models average aspects of turbulent flow; LES resolves larger turbulent structures while modelling smaller scales; DNS attempts to resolve all dynamically relevant scales and can be prohibitively expensive at high Reynolds numbers. The appropriate method depends on the problem and computational resources.
+ 
+PRODUCTION DETAIL 21 — CONVERGENCE
+ 
+If residual plots appear, keep them restrained and correctly labelled. Convergence indicators can help assess whether the numerical iterations have stabilised. However, small residuals alone do not establish that the model is physically accurate or that the numerical error is acceptably small. The video must not display a green success symbol as proof that all scientific questions have been settled.
+ 
+PRODUCTION DETAIL 22 — MESH INDEPENDENCE
+ 
+A brief visual may show coarse, medium, and fine meshes. The purpose is to suggest mesh refinement studies, not to claim that one mesh automatically gives the exact solution. Important quantities should be compared across suitable mesh resolutions, with attention to discretisation error and computational cost. This is numerical verification of a particular calculation, not proof of global mathematical regularity.
+ 
+PRODUCTION DETAIL 23 — TIME-STEP INDEPENDENCE
+ 
+For transient calculations, numerical predictions may depend on the selected time step. A suitable time-step refinement study can help assess temporal discretisation error. Show the idea through three compact waveform or contour comparisons if space permits. Do not imply that a single animation proves that the calculated time evolution is exact.
+ 
+PRODUCTION DETAIL 24 — CONSERVATION CHECKS
+ 
+Illustrate a simple mass-balance comparison between inlet and outlet. For an appropriate steady incompressible control volume without other mass sources or sinks, the flow balance should be consistent within numerical tolerances. Momentum and energy balances may also be relevant. These checks help establish numerical credibility but do not replace mathematical proof or physical validation.
+ 
+PRODUCTION DETAIL 25 — VALIDATION WITH REALITY
+ 
+Validation compares a model's predictions with independent experimental measurements, analytical benchmarks, or trusted reference data. A river simulation should not be described as measured reality unless relevant measurements and a suitable model are actually available. Use the Vaigai River as a familiar visual setting and the CFD display as an illustrative model. Do not claim that the simulation was calibrated to current river conditions.
+ 
+PRODUCTION DETAIL 26 — ENGINEERING APPLICATION: AERODYNAMICS
+ 
+Show airflow around an aircraft wing or vehicle. Display a coherent velocity field, a wake, and pressure variations. The application is aerodynamic design, where CFD can help investigate lift, drag, flow separation, and related quantities. Avoid claiming that a colourful contour alone guarantees aircraft safety or replaces physical testing and certification.
+ 
+PRODUCTION DETAIL 27 — ENGINEERING APPLICATION: TURBOMACHINERY
+ 
+Show a turbine blade passage or compressor-like geometry with flow following the blades. Include plausible pressure and velocity distributions. The visualisation represents how CFD can support design analysis of energy conversion, pressure rise, losses, and blade-passage flow. Do not add arbitrary efficiency percentages or claim that the illustrated result represents a tested commercial machine.
+ 
+PRODUCTION DETAIL 28 — ENGINEERING APPLICATION: PIPE FLOW
+ 
+Show a fluid entering a pipe, passing through a bend or expansion, and leaving through an outlet. Indicate pressure loss and a possible recirculation zone where the geometry supports one. The application is relevant to hydraulic systems, process plants, water supply, and industrial piping. Avoid implying that all pipe flows are turbulent or that a single modelling approach is appropriate for every regime.
+ 
+PRODUCTION DETAIL 29 — ENGINEERING APPLICATION: HEAT TRANSFER
+ 
+Show air passing over a heat sink, electronic component, or compact heat exchanger. Use a clear temperature field or velocity field, not a confusing mixture of unrelated scales. Explain visually that fluid flow and heat transfer are coupled in many engineering systems. If temperature is displayed, it should be identified as temperature rather than pressure or velocity.
+ 
+PRODUCTION DETAIL 30 — ENGINEERING APPLICATION: COMBUSTION
+ 
+If combustion is suggested in a background transition, show an engineering burner or combustion chamber only as a brief example. Realistic combustion models require additional physical and chemical descriptions, such as reaction rates, species transport, heat release, and potentially turbulence–chemistry interactions. Navier–Stokes equations are important to the fluid motion but are not, by themselves, a complete combustion model.
+ 
+PRODUCTION DETAIL 31 — ENGINEERING APPLICATION: ENVIRONMENTAL FLOW
+ 
+The river channel can introduce environmental hydraulics, flood modelling, pollutant transport, and sediment-related problems. Each application may require additional transport equations, boundary data, terrain information, and appropriate physical models. Do not present the short illustrative river mesh as an actual flood forecast or environmental assessment.
+ 
+PRODUCTION DETAIL 32 — WHAT COUNTS AS A FLUID?
+ 
+The final science must use the correct general concept: fluids include liquids and gases because they can flow and deform continuously under applied shear. Air is a gas and is a fluid. Water is a liquid and is a fluid. Other examples include oil, steam, and many mixtures. Some materials exhibit complex non-Newtonian behaviour and require constitutive models beyond the simplest Newtonian formulation.
+ 
+PRODUCTION DETAIL 33 — GAS FLOW
+ 
+Transition from air moving around an aircraft to a compressible gas-flow visualisation. Airflow may be treated as approximately incompressible in suitable low-speed conditions, but compressibility becomes important in other regimes, including sufficiently high-speed flows and systems with substantial density changes. Do not suggest that all gas flows can be accurately modelled using the incompressible equation displayed earlier.
+ 
+PRODUCTION DETAIL 34 — SPACE SCIENCE
+ 
+Use a scientifically inspired simulation of gas flowing through an astronomical environment. Show large-scale gas structures and motion shaped by gravity and thermodynamic processes. The image should resemble a scientific visualisation, not a fantasy nebula or a spacecraft explosion. Keep the transition brief enough to preserve the river-to-engineering-to-cosmos narrative.
+ 
+PRODUCTION DETAIL 35 — GALAXIES AND GRAVITY
+ 
+A galaxy contains stars, gas, dust, dark matter, and other components. Navier–Stokes-type fluid equations can be useful for modelling the gas component, but they do not by themselves describe the complete galaxy. Large-scale simulations may couple fluid dynamics with gravity, energy transport, chemical processes, magnetic fields, radiation, and models of star formation or feedback. Collisionless stars and dark matter are commonly described using gravitational dynamics and, in suitable approaches, kinetic equations rather than ordinary gas-fluid equations.
+ 
+PRODUCTION DETAIL 36 — ASTROPHYSICAL GAS
+ 
+Show the gas structures as an illustrative example of a larger numerical model. Use the label “ASTROPHYSICAL GAS DYNAMICS” rather than claiming that an ordinary ANSYS water simulation has been directly applied to a galaxy. Distinguish the general relevance of fluid equations from the specialised models needed in astrophysics. Do not fabricate scientific measurements or a specific discovery.
+ 
+PRODUCTION DETAIL 37 — PLASMA
+ 
+If plasma is shown as an additional example, identify it as an ionised gas that can sometimes be described using fluid models. Magnetohydrodynamics may be appropriate when magnetic fields and conducting-fluid effects are important. Some plasma phenomena require kinetic descriptions. Do not imply that plasma always behaves exactly like water or air.
+ 
+PRODUCTION DETAIL 38 — SIMULATION IS NOT A THEOREM
+ 
+The final scientific point must be unambiguous. A computational solution provides information about a selected mathematical model, computational domain, initial state, boundary conditions, numerical method, and finite resolution. Even an accurate and repeatable simulation does not automatically prove a theorem about every admissible solution of the three-dimensional Navier–Stokes equations.
+ 
+PRODUCTION DETAIL 39 — MATHEMATICAL PROOF
+ 
+A rigorous mathematical proof establishes a conclusion through logically justified steps under clearly specified assumptions. The relevant Navier–Stokes Millennium Prize problem concerns existence and smoothness for specified three-dimensional formulations or an appropriate breakdown alternative under the official problem's conditions. A proof must address the precise mathematical statement; a numerical example is not sufficient.
+ 
+PRODUCTION DETAIL 40 — FORMAL VERIFICATION
+ 
+Formal proof assistants can help check mathematical arguments encoded in a formal language. Their usefulness depends on the correctness of the formal statement, the formalisation, and the relationship between that statement and the intended mathematical claim. A successful machine check is not a licence to ignore whether the encoded theorem is the theorem researchers intended to prove.
+ 
+PRODUCTION DETAIL 41 — INDEPENDENT SCRUTINY
+ 
+When a major mathematical result is announced, specialists need to examine the written argument, assumptions, derivations, formalisation where applicable, and any claimed implications. The film must not portray verification as an automatic button or a ceremonial award. Use a neutral research interface rather than an official-looking certificate or fabricated institutional endorsement.
+ 
+PRODUCTION DETAIL 42 — CLAIM VERSUS ACCEPTANCE
+ 
+If the research-status theme appears, display “CLAIM”, “VERIFICATION”, and “ACCEPTANCE” as distinct concepts. Do not imply that every claim has been verified or accepted. Do not claim that a particular result has received an official prize unless independently established and appropriately documented. The short video should focus on the general method of scientific scrutiny rather than unsupported claims about the status of a live mathematical controversy.
+ 
+PRODUCTION DETAIL 43 — RIVER PHYSICS
+ 
+Keep the real Vaigai River physically plausible. Show ordinary ripples, reflections, and small eddies appropriate to the scene. The dramatic three-dimensional vortices must remain inside the scientific visualisation. Do not show the river responding to gestures, forming an impossible whirlpool, or generating an enormous flood wave. Do not invent measurements of the actual river.
+ 
+PRODUCTION DETAIL 44 — CAMERA CONTINUITY
+ 
+Use a monitor close-up, a stable two-shot, a short mathematical display, rapid but legible engineering transitions, a brief astrophysical visualisation, and a final river view. Keep camera motion controlled. Do not rotate the camera aggressively or cut so quickly that the scientific concepts become unreadable. Preserve both characters' positions and screen direction between conversational shots.
+ 
+PRODUCTION DETAIL 45 — LIP SYNCHRONISATION
+ 
+Only Character B's mouth moves during the opening question. Only Character A's mouth moves during the first answer and final lesson. The non-speaking character should breathe naturally, blink, and respond with subtle expressions. Use the correct Tamil audio track for each identity. If the generation system cannot produce reliable Tamil lip-sync, generate clean dialogue audio and correct the lip-sync in editing.
+ 
+PRODUCTION DETAIL 46 — SOUND MIXING
+ 
+Keep dialogue as the primary sound. Use quiet river ambience, restrained laboratory room tone, soft interface sounds, and low-volume cinematic music. Do not use a dramatic impact at the moment the Navier–Stokes equation appears. Avoid triumphant music that suggests the mathematical problem has been solved. The ending should communicate curiosity and scientific humility.
+ 
+PRODUCTION DETAIL 47 — TEXT LEGIBILITY
+ 
+Add the equations, technical labels, and end-card text in post-production. Use a readable sans-serif typeface with adequate contrast. Keep the main labels large enough for a mobile landscape display. Do not ask the video generator to render a wall of tiny mathematical symbols or long paragraphs. Correct the equation typography before export.
+ 
+PRODUCTION DETAIL 48 — EXACT TIMING
+ 
+The complete runtime must be exactly twenty seconds. All cuts, transitions, speech, and title animation occur inside that duration. Do not append an introduction, credits, extra explanation, or separate logo animation. The production prompt is not spoken aloud. The spoken Tamil is limited to the specified lines.
+ 
+PRODUCTION DETAIL 49 — FINAL SCIENCE CHECK
+ 
+Before export, confirm that the equation matches the stated incompressible Newtonian assumptions, that ANSYS CFD is described as a numerical modelling tool, that the engineering examples are plausible, and that the galaxy example does not imply Navier–Stokes alone explains the entire cosmos. Verify that the statement “air is a fluid” is correct and that the final dialogue distinguishes simulation from proof.
+ 
+PRODUCTION DETAIL 50 — FINAL IDENTITY CHECK
+ 
+Review every frame featuring either man. Character A must remain the exact reference-locked moderately fat Tamil man in the black shirt. Character B must remain the exact reference-locked average-built Tamil man in the red shirt. Confirm that their faces, body shapes, clothing, voices, and dialogue assignments remain consistent.
+ 
+FINAL EDITORIAL PRINCIPLE:
+ 
+The video should make a strong scientific argument without making an exaggerated scientific claim. Mathematical theory explains the governing principles; numerical CFD predicts the behaviour of specified models; engineering verification and physical validation test the reliability of those predictions; and rigorous mathematical proof establishes general mathematical conclusions. Fluid mechanics connects liquids and gases across engineering and many areas of science, including models of astrophysical gas. These connections make Navier–Stokes important, but they do not mean that one ANSYS simulation proves the full mathematical problem.
+
+
+COPY-READY AI VIDEO PROMPT — NAVIER–STOKES: THE VAIGAI RIVER VORTEX — COMBINED FINAL SEQUENCE
+
+TOTAL VIDEO DURATION: Exactly 20 seconds, not 30 seconds. Create one continuous cinematic sequence that combines the ideas of Scenes 10, 11 and 12: first, explain why a computer simulation is not the same as a mathematical proof; second, distinguish an announced mathematical claim from independently verified and broadly accepted proof; third, end with a thoughtful lesson beside the Vaigai River. The three source scenes are condensed into two timed sections of ten seconds each. Do not extend the runtime to fit additional speech. The 6,009-word specification is guidance for the video generator and is not dialogue to be spoken aloud.
+
+FORMAT AND LOOK: 4K UHD, 16:9 landscape, 24 frames per second. Photorealistic Tamil science documentary, restrained cinematic suspense, realistic engineering laboratory elements blended with the Vaigai River at Madurai, natural daylight, physically plausible water, tasteful blue holographic overlays, clean typography added in post-production, realistic skin texture, natural movement, stable camera work, coherent lighting, and intelligible spoken Tamil. The result must look like a polished science-film ending, not a fantasy trailer, disaster sequence, advertisement, or fictional news report.
+
+CHARACTER A — BLACK-SHIRT MAN: Use the exact supplied reference photograph of the black-shirt Tamil man. He is an adult Tamil man with a moderately fat, naturally stocky build, a rounded face, broad torso, and a modestly prominent belly. He is visibly somewhat overweight but is not extremely obese, not enormously oversized, and not unnaturally bloated. Preserve the precise identity visible in the supplied photograph: face shape, skin tone, eyes, eyebrows, nose, mouth, hairstyle, facial hair if present, age appearance, and natural body proportions. He wears the same plain black shirt and dark trousers in every shot. Do not exaggerate his weight, enlarge his belly, slim him, make him muscular, change his age, or generate a replacement face.
+
+CHARACTER B — RED-SHIRT MAN: Use the exact supplied reference photograph of the red-shirt Tamil man. He is an adult Tamil man with a normal, average build and natural body proportions. Preserve the exact facial identity in his photograph, including face shape, skin tone, eyes, eyebrows, nose, mouth, hairstyle, facial hair if present, and age appearance. He wears the same bright red shirt and dark trousers in every shot. Do not make him resemble Character A, give him Character A’s face, exaggerate his body shape, or alter his clothing.
+
+PERMANENT REFERENCE-IMAGE IDENTITY LOCK: The actual user-supplied photographs are the highest-priority visual references. Assign the black-shirt photograph only to Character A and the red-shirt photograph only to Character B. Reuse the same images and identity-reference settings throughout the entire 20-second generation whenever the video tool supports reference images, character consistency, fixed seeds, or identity strength. Generic example pictures are not substitutes. Never exchange faces, bodies, clothes, voices, or roles. No face morphing, face blending, identity drift, artificial ageing, slimming, exaggerated weight gain, hairstyle changes, sudden height changes, duplicate versions, or inconsistent body proportions. Reflections, monitor screens, holograms, close-ups, wide shots, and the final aerial shot must not introduce alternative versions of either person.
+
+DIALOGUE DIRECTION: The red-shirt man is the learner. He initiates the questions, expresses curiosity, and asks for clarification. The black-shirt man is the explainer. He listens attentively, responds in straightforward Tamil, and clears the red-shirt man’s doubts without mocking him or making the topic seem magical. Keep the dialogue order fixed: question from red; answer from black. The black-shirt man must not ask the main question while the red-shirt man gives the expert explanation. Only the active speaker’s mouth should move during each spoken line. Give the listener natural eye movement, breathing, nods, and facial reactions. Avoid overlapping dialogue, robotic delivery, and mismatched mouth motion.
+
+TIMELINE — 00:00–00:10, SIMULATION VERSUS PROOF: Begin with a close-up of a computer monitor in a realistic engineering laboratory beside the Vaigai River. The monitor shows a scientifically plausible computational fluid dynamics visualisation: a three-dimensional computational mesh, velocity contours, coloured streamlines, and vortex structures evolving over time. Keep the simulated flow inside the monitor or a clearly bounded transparent holographic volume; do not make the real river transform into a catastrophe. A separate panel shows a clean mathematical proof diagram, visually distinct from the numerical simulation. At 00:03, cut to a medium two-shot showing both reference-locked characters beside the display. The red-shirt man points at the simulated mesh and asks in natural Tamil: “சார், simulation வந்தால் proof கிடைத்துவிடுமா?” The line must be brisk but intelligible. From 00:06 to 00:10, the black-shirt man calmly gestures from the simulation panel to the separate proof panel and answers: “இல்லை! Simulation உதவும்; rigorous proof தனி!” Emphasise the contrast visually: a rendered velocity field on one side and clearly organised proof steps on the other. Do not show a certificate or an automatically awarded prize.
+
+TIMELINE — 00:10–00:20, VERIFICATION AND FINAL LESSON: Transition from the separate proof panel to a holographic research wall. Show a research announcement card, a mathematical manuscript icon, and a panel labelled LEAN. Present the three words CLAIM, VERIFICATION, and ACCEPTANCE as distinct stages, not as a completed automatic conveyor belt. At 00:10–00:13, the red-shirt man looks at the research wall and asks in Tamil: “அப்படியென்றால், இது தீர்ந்துவிட்டதா?” At 00:13–00:16, the black-shirt man replies: “கூற்றை நிபுணர்கள் சரிபார்க்க வேண்டும்!” This must sound measured and educational, not dismissive. From 00:16–00:20, both men turn towards the Vaigai River. The black-shirt man gestures to the moving water and gives the final short line: “அறிவியலில் கேள்விகள்தான் முக்கியம்!” If the speech timing becomes crowded, shorten the pause between lines rather than speaking unnaturally fast. The red-shirt man listens and nods, showing understanding. The camera rises smoothly into a wide aerial view of the river as the holograms fade into a clean title card.
+
+SCIENTIFIC DISPLAY TEXT, TO BE ADDED IN POST-PRODUCTION: “CFD = Computational Fluid Dynamics”; “DNS = Direct Numerical Simulation”; “LES = Large-Eddy Simulation”; “RANS = Reynolds-Averaged Navier–Stokes”; “CFD SIMULATION ≠ MATHEMATICAL PROOF”; “CLAIM”; “WRITTEN PROOF”; “FORMAL VERIFICATION”; “INDEPENDENT MATHEMATICAL SCRUTINY”; and “ACCEPTANCE”. Do not force the video generator to invent tiny equation text. Keep all scientific labels large, correctly spelled, high-contrast, and readable for their actual screen time. Do not crowd every label onto the same frame. Use only the most relevant labels in each shot.
+
+FINAL END CARD: “NAVIER–STOKES: THE VAIGAI RIVER VORTEX”. Below it, add the Tamil subtitle: “நீரின் ஓட்டம் • கணிதத்தின் தேடல் • அறிவியலின் பயணம்”. The end card should be clean and legible, with the river still visible behind or beneath it. Do not announce that the Millennium Prize has been awarded. Do not claim that a disputed or newly announced result has unquestioned universal acceptance.
+
+SCIENTIFIC ACCURACY AND HISTORICAL WORDING: Numerical simulations provide computational evidence under selected models, equations, boundary conditions, discretisations, and numerical assumptions. A simulation does not by itself prove global regularity or finite-time blow-up. A rigorous mathematical proof must establish the stated conclusion for the exact problem and assumptions. OpenAI announced a finite-time blow-up result for a forced Navier–Stokes setting on September 8, 2026. An October 6, 2026 preprint by Alexander Bastounis, Fabian Circelli, and Anders C. Hansen questioned whether the Lean formalisation corresponds faithfully to the accompanying written argument. Treat the announcement as a mathematical claim under scrutiny, not as an undisputed, prize-winning conclusion. Do not suggest that the criticism alone conclusively settles the mathematical question in the opposite direction either. Keep the language balanced: independent scrutiny is needed. The final film should not display false endorsements, fabricated citations, invented quotations, or a fictional Clay Mathematics Institute decision.
+
+SOUND DESIGN: Blend gentle Vaigai River ambience with restrained laboratory sound. Use subtle keyboard or electronic interface sounds when the simulation appears, but keep them underneath the speech. No loud impacts, explosions, alarm sounds, artificial crowd cheering, or ominous disaster effects. Tamil dialogue must remain the foreground audio. Use a calm, clear adult male Tamil voice for each person, distinct enough that the two speakers are recognisable. The black-shirt man’s delivery is measured and reassuring; the red-shirt man’s delivery is curious and sincere. Preserve lip synchronisation, reasonable pauses, and natural Tamil pronunciation. Do not add narration that is not specified in the dialogue.
+
+CAMERA PLAN: Use a monitor close-up for the numerical visualisation, a short over-the-shoulder angle from the red-shirt man, a clean two-shot for the question and explanation, a slow lateral move across the research wall, a brief close-up of each speaking character, and a smooth ascending aerial transition for the final end card. Avoid rapid cuts during dialogue. Do not let a monitor or hologram obscure either face. Use natural perspective and realistic lens behaviour. The camera should make the science easier to understand, not compete with it.
+
+NEGATIVE PROMPT: No face changes, no body distortion, no clothing swaps, no role reversal, no generic replacement faces, no duplicated characters, no extremely obese black-shirt character, no unnaturally slim black-shirt character, no body transformations, no fake theorem certificate, no fraudulent prize announcement, no false claim of final acceptance, no assertion that CFD proves a theorem, no supernatural river vortex, no flood disaster, no infinite physical water velocity, no invented institutional logos, no fake news headline, no garbled equations, no blurry subtitles, no extra dialogue, no music louder than the voices, and no ending before the full 20 seconds have elapsed.
+
+OUTPUT REQUIREMENTS: One continuous final sequence lasting exactly 20 seconds, 4K UHD, 16:9, 24 fps. Keep both men recognisable in every appearance and maintain the black-shirt/red-shirt identity mapping throughout. Dialogue order must be red-shirt question, black-shirt explanation, red-shirt follow-up, black-shirt verification answer, black-shirt final lesson. Do not add a third character. Do not add scene time. Do not make the final result depend on text the generator may render incorrectly; add labels, equations, Tamil subtitles, and the final title card in editing. End on the actual Vaigai River and the specified title, with a thoughtful, optimistic science-documentary tone.
+
+PRODUCTION DETAIL 01 — REFERENCE PHOTOGRAPH HANDLING:
+Load the original user-provided image for the black-shirt character into the first character-reference slot and the original user-provided image for the red-shirt character into the second slot. If the tool provides named character IDs, bind the same ID to every shot where that character appears. Do not allow automatic reference selection to switch between the two people. Prefer clear source photographs with the face unobstructed. Preserve the real face rather than beautifying, stylising, ageing, or redrawing it. Maintain the original facial geometry even when the character turns, speaks, smiles, nods, or appears in partial profile. A small natural lighting change is acceptable; a new identity is not. The photographs are authoritative for identity, while the description is authoritative for the requested clothes and scene behaviour.
+
+PRODUCTION DETAIL 02 — BLACK-SHIRT BODY PROPORTIONS:
+Character A must appear moderately fat and naturally stocky. Use the supplied photograph to determine the precise build. The written description is not a licence to exaggerate the body. Keep the torso broad, the face naturally rounded, and the belly moderately prominent only to the extent supported by the reference. Do not convert the person into an extremely obese caricature, a bodybuilder, or a slim model. The shirt should sit naturally over the torso with plausible folds, seams, and fabric tension. Keep arms, neck, shoulders, waist, and head in realistic proportion. The silhouette must remain consistent through sitting, standing, pointing, and walking motions.
+
+PRODUCTION DETAIL 03 — RED-SHIRT BODY PROPORTIONS:
+Character B has a normal average build, following the supplied image. Keep the shoulder width, neck, face, torso, and limb proportions coherent. Do not make him unusually thin or heavy, and do not copy Character A’s body. The red shirt must remain the same shade of bright red throughout the clip, with the same general fit and sleeve length. Dark trousers remain unchanged. Avoid clothing pattern changes, logos, jackets, accessories, or costume details not present in the source image. Natural fabric movement is acceptable, but identity and clothing continuity take priority.
+
+PRODUCTION DETAIL 04 — FACE CONTINUITY IN CLOSE-UPS:
+During every close-up, maintain the reference face without identity drift. Preserve eye spacing, eyebrows, eyelids, nose width, lips, jawline, skin tone, hairline, and facial hair where visible. Do not apply beauty filters, smooth the face into plastic skin, or make the two men appear related if the references do not show that. Keep facial expressions restrained and believable. The red-shirt man should appear inquisitive; the black-shirt man should appear attentive and helpful. Avoid overacting, exaggerated surprise, or comic expressions that distort the face. Mouth movements should match the current Tamil words and settle naturally between lines.
+
+PRODUCTION DETAIL 05 — TWO-SHOT COMPOSITION:
+When both men share the frame, keep each character identifiable through face, clothes, and relative body shape. The black-shirt man is Character A, moderately fat and stocky. The red-shirt man is Character B, normal-built. Maintain a natural conversational distance, consistent screen direction, and matching eye lines. If the red-shirt man points to the simulation, his hand should point toward the monitor rather than at the black-shirt man. When the black-shirt man answers, he may gesture between the numerical output and the proof panel. Ensure hands do not cover faces and displays do not cover mouths during spoken lines.
+
+PRODUCTION DETAIL 06 — SIMULATION MONITOR:
+The monitor should resemble a real engineering workstation display. Show a stable three-dimensional mesh and evolving velocity contours in a scientific visualisation. The flow should change continuously rather than blinking randomly between unrelated images. Vortex structures may appear as coloured, curved features, but their motion should remain visually coherent. Keep axes, contours, or particle trails restrained and avoid overwhelming the display with meaningless symbols. If the generator cannot render a legible screen, generate the screen with clean empty panels and add an accurate visualisation in post-production. The monitor must look like a tool for analysis, not a magical source of truth.
+
+PRODUCTION DETAIL 07 — DISTINGUISHING SIMULATION FROM PROOF:
+Show the numerical simulation and the proof diagram as separate, clearly distinguished areas of the composition. The simulation area may contain a mesh, contours, and fluid movement. The proof area should suggest definitions, assumptions, logical steps, and a conclusion, without presenting fabricated theorem text as real. Make the distinction understandable at a glance: images show computed behaviour under a model, while proof consists of a logical mathematical argument. Do not use green check marks, gold badges, seals, or celebratory animations to imply that the simulation establishes the theorem. The visual metaphor should support the dialogue and be scientifically honest.
+
+PRODUCTION DETAIL 08 — RESEARCH WALL:
+The research wall should look like a university or engineering research presentation, with neutral panel design and restrained colours. Include a manuscript symbol, a research-announcement card, and a LEAN label. Do not fabricate an authentic-looking signature, institution seal, reviewer quote, peer-review status, or prize certificate. The three status words CLAIM, VERIFICATION, and ACCEPTANCE should be separate and readable. Let them appear one at a time or in an orderly row. Do not animate them as if verification and acceptance happen automatically. The wall represents stages of scrutiny, not a claim that the stages have already been completed.
+
+PRODUCTION DETAIL 09 — MATHEMATICAL STATUS:
+Treat the scientific story with caution. The video may report that a result was announced and that questions have been raised about the relationship between natural-language reasoning and its formalisation. Do not describe the reported proof as unquestionably accepted, and do not declare that the criticism alone disproves every underlying mathematical claim. Avoid simplistic statements such as ‘AI solved everything’ or ‘the entire result is fake’. Use balanced wording about a claim requiring independent mathematical examination. No character should make a definitive statement beyond the evidence shown on screen.
+
+PRODUCTION DETAIL 10 — LEAN FORMALISATION PANEL:
+The LEAN panel should be a visual reference to formal proof checking, not a fabricated screenshot of executable code. A small code-like pattern may appear as an abstract interface, but exact source code should be added only if independently checked and intentionally included. Make clear that checking a formal statement and establishing that the statement accurately expresses the intended written argument are related but distinct tasks. Do not put a bright green ‘PROOF ACCEPTED’ banner on the panel. The point is to communicate verification carefully, not to imply automatic resolution of a public mathematical controversy.
+
+PRODUCTION DETAIL 11 — ON-SCREEN TYPOGRAPHY:
+Use clear, high-contrast, post-produced typography for every heading, label, equation, caption, and end-card line. Keep the type large enough to read on a phone screen in a landscape video. Use a consistent family and restrained weight hierarchy. Avoid overly thin strokes, random letter spacing, perspective distortion, flashing text, or dense wall-sized paragraphs. Prefer short labels that survive a brief glance. Do not depend on the video generator to accurately spell technical English or Tamil. Reserve safe margins around all text and avoid placing text over the characters’ eyes, faces, or mouths.
+
+PRODUCTION DETAIL 12 — TAMIL SUBTITLE DESIGN:
+Tamil subtitles should be accurate, correctly encoded, and aligned with the spoken dialogue. Use the exact supplied dialogue lines or a verified transcription. Keep subtitles within the lower safe area, away from the frame edges. Use a legible Tamil font, sufficient contrast, and a subtle outline or backdrop when the background is bright. Do not transliterate Tamil into incorrect Roman letters unless explicitly requested. Do not invent extra dialogue in the subtitles. The spoken Tamil and subtitle timing must agree. Add the final Tamil end-card line exactly as provided, and proofread it before export.
+
+PRODUCTION DETAIL 13 — DIALOGUE TIMING:
+The complete film lasts twenty seconds, so every dialogue line must be short enough to fit its assigned window. Use natural Tamil pacing rather than racing through long sentences. The dialogue is a cue for concise spoken delivery, not a mandate to read the whole prompt aloud. The full specification, equation labels, identity instructions, and scientific notes are production guidance only. Keep the red-shirt man’s question distinct from the black-shirt man’s answer. If any line overruns, shorten a pause or tighten a cut, but never overlap both voices so heavily that the words become unintelligible. Never extend the total video beyond the requested runtime.
+
+PRODUCTION DETAIL 14 — VOICE SEPARATION:
+Give each character a consistent adult Tamil voice. Character B’s voice should convey honest curiosity, not exaggerated panic or foolishness. Character A’s voice should be calm, clear, and explanatory, not domineering or mocking. Maintain stable voice character between the first and final line. Avoid sudden changes in pitch, accent, age, loudness, or apparent speaker identity. Do not give both characters identical synthetic voices. Use realistic breath points and conversational emphasis. The final line should feel reflective and encouraging, ending with a complete phrase rather than cutting off mid-word.
+
+PRODUCTION DETAIL 15 — LIP-SYNC:
+Synchronise the speaking character’s lips with the exact Tamil line. Start mouth motion just before the first syllable when natural, maintain plausible articulation through the sentence, and return to a relaxed expression at the end. The non-speaking character must not silently mouth the same words. Avoid frozen lips, chewing-like motion, excessive jaw movement, or mouth shapes inconsistent with speech. If the generator has separate voice and face controls, apply them consistently. Check every line in the final edit and use a corrected audio pass if visual lip-sync is noticeably wrong.
+
+PRODUCTION DETAIL 16 — AMBIENT AUDIO:
+Use gentle river ambience as the environmental bed. The water sound should feel calm and local, with no claim that it is a recording of current conditions unless actual audio was captured. Add a very subtle laboratory room tone around the monitor sequence. Electronic interface sounds may mark the appearance of the mesh or status labels, but should remain quiet. Do not add emergency sirens, violent splashes, crowds, explosions, or fantasy energy sounds. The soundtrack must support scientific curiosity and the reflective ending. Keep the dialogue centred and clear across common phone speakers.
+
+PRODUCTION DETAIL 17 — MUSIC:
+Use understated cinematic music that begins with light scientific curiosity, adds a gentle thoughtful tone during the research-wall sequence, and resolves optimistically at the final aerial view. Avoid heavy percussion that masks speech. Do not use triumphal victory music, a prize-award fanfare, or a sinister cue that implies misconduct. The music should not tell viewers what conclusion to reach; the words and cautious visual framing should carry that meaning. Fade the score smoothly with the end card and preserve a moment of calm river ambience at the close.
+
+PRODUCTION DETAIL 18 — LIGHTING CONTINUITY:
+Keep daylight consistent across the river and laboratory composites. Character skin tones must remain natural and faithful to the reference photographs, not shifted by blue holographic light. Holograms may cast a subtle cool reflection on nearby surfaces, but must not recolour faces or clothes. Maintain consistent shadow direction, realistic highlights, and stable exposure when cutting between close-ups and wide shots. Avoid pulsing brightness, flicker, blown highlights, and dark faces. The final aerial shot should share the same general time-of-day look as the earlier river view.
+
+PRODUCTION DETAIL 19 — COLOUR PALETTE:
+Use natural river browns and greens, restrained blue and cyan for scientific overlays, neutral laboratory tones, black clothing for Character A, and bright red clothing for Character B. The two shirt colours must remain stable and easy to distinguish. Do not use the clothing colour alone to substitute for the supplied faces. Keep the holographic colours readable against both the river and the laboratory background. Avoid oversaturated neon colours, rainbow effects, or an unrealistic cyberpunk grade. The final title should harmonise with the river scene instead of competing with it.
+
+PRODUCTION DETAIL 20 — WATER PHYSICS:
+The actual Vaigai River should remain visually plausible and calm during this final sequence. Its surface may show naturally changing ripples, reflections, and small eddies, but no gigantic vortex, wall of water, flood wave, or impossible rotation. The dramatic fluid structures belong to the scientific monitor or bounded holographic simulation. Do not imply that the displayed computational field has been measured at this exact location. The water should not react to the characters’ gestures. Keep the river a real-world setting for explaining fluid mechanics, not a supernatural character in the story.
+
+PRODUCTION DETAIL 21 — CAMERA STABILITY:
+Move the camera only when the movement improves narrative clarity. The monitor opening may use a small controlled push-in. The research wall can be revealed with a slow pan. The final river view can rise into a smooth aerial pullback. Avoid handheld shake, aggressive zooms, whip pans, spinning camera moves, sudden focal-length jumps, or cuts that break conversational geography. Keep both faces in focus when they speak and retain enough depth of field to read the display when needed. The final move should be smooth enough to feel like a deliberate documentary ending.
+
+PRODUCTION DETAIL 22 — EDITING RHYTHM:
+The 20-second structure is concise: the first ten seconds explain simulation versus proof; the second ten seconds move from verification to the concluding lesson. Use clean cuts at the established time marks. Do not create an unrequested extra scene or extend the end card. Do not include a long logo animation, credits roll, or additional explanatory monologue. Give each visual idea one clear moment, allowing the audience to recognise it before moving on. The finish should feel complete despite the short runtime.
+
+PRODUCTION DETAIL 23 — HAND AND GESTURE ANATOMY:
+Keep gestures modest and anatomically plausible. The red-shirt man may point once toward the simulation, then lower his hand. The black-shirt man may gesture between the simulation panel and proof panel, then point gently toward the river at the conclusion. Ensure each arm connects naturally to the correct shoulder and that fingers remain correctly formed. Avoid duplicated fingers, fused hands, extra arms, wrist reversals, or gestures that pass through the monitor. Do not let hand movements obscure the displayed key terms. Natural gestures should reinforce explanations, not serve as spectacle.
+
+PRODUCTION DETAIL 24 — EYE LINES AND ATTENTION:
+During the question, the red-shirt man should look toward the simulation and then the black-shirt man. During the answer, the black-shirt man should look at the red-shirt man, briefly indicate the display, and return his attention to the conversation. On the research wall, both characters may glance toward CLAIM, VERIFICATION, and ACCEPTANCE as the words appear. For the final line, the black-shirt man looks toward the river, and the red-shirt man follows his gaze. Keep pupils, blinks, and facial orientation natural. Avoid staring through the viewer unless deliberately required by the shot.
+
+PRODUCTION DETAIL 25 — FACIAL EXPRESSION:
+Character B should show curiosity and growing understanding. His expression may move from inquiry to thoughtful acceptance, but should not exaggerate astonishment. Character A should appear knowledgeable and patient, with a small natural smile at the final moment. Do not use laughter, ridicule, anger, fear, tears, or exaggerated comic reactions. Facial expressions must stay within the identity reference and should not reshape the face so dramatically that recognition is lost. The emotional arc is simple: a technical question, a careful answer, scrutiny, and intellectual curiosity.
+
+PRODUCTION DETAIL 26 — BACKGROUND PEOPLE:
+Do not introduce extra people unless absolutely necessary for a background location and never let background people approach, speak, or distract from the two main characters. The safest composition uses only Character A and Character B in the foreground, with the riverbank and laboratory elements empty or softly out of focus. Do not add a crowd of students, scientists, officials, photographers, or journalists. No third person should speak or appear as a false authority. Preserve the two-character structure in all shots.
+
+PRODUCTION DETAIL 27 — PROOF DIAGRAM DESIGN:
+The proof panel should communicate a logical chain visually through aligned boxes, arrows, and a final conclusion marker. It must not resemble a fake signed certificate. Keep the panel separate from the colourful numerical field, and avoid placing a green success mark over an unspecified theorem. A neutral title such as WRITTEN ARGUMENT or PROOF STRUCTURE is acceptable. Its purpose is to illustrate how proof differs from simulation, not to summarise the actual technical proof or imply that every step shown represents the real manuscript. Use simplified symbolic elements only when they are not misleading.
+
+PRODUCTION DETAIL 28 — CLAIM-VERIFICATION-ACCEPTANCE DESIGN:
+Display CLAIM, VERIFICATION, and ACCEPTANCE as three different concepts. Give each enough time to be read, preferably with restrained transitions. CLAIM represents an announcement or stated result. VERIFICATION represents the work required to inspect the written reasoning, formalisation, assumptions, and consequences. ACCEPTANCE represents a broader status that should not be represented as automatic or already achieved. Do not animate the three words into one green check mark. Avoid indicating a formal prize decision. Keep the idea that scientific confidence grows through careful independent work.
+
+PRODUCTION DETAIL 29 — HISTORICAL CONTEXT CARD:
+If the date context is included visually, use precise, verified dates: the OpenAI announcement was dated September 8, 2026, and the preprint raising concerns about the correspondence between formalisation and written proof was posted on October 6, 2026. Use concise wording such as ‘Announcement’ and ‘Independent critique’ rather than declaring a final verdict. Do not invent a date for a mathematical acceptance decision. Do not display a prize amount as if awarded. If the available screen time is too short, omit the dates rather than using unreadable small text. The spoken explanation can remain general and balanced.
+
+PRODUCTION DETAIL 30 — SCIENTIFIC HUMILITY:
+The characters should treat mathematics as a subject where claims are tested carefully. The black-shirt man must not imply that a simulation is worthless; it is useful evidence and a tool for exploration. He must also not imply that numerical evidence alone establishes a rigorous theorem. The red-shirt man’s follow-up helps distinguish confidence from certainty. Keep the tone respectful of researchers and verification work. Do not stage the exchange as a contest in which one character humiliates another. A thoughtful science film should make the distinction understandable without overclaiming.
+
+PRODUCTION DETAIL 31 — FINAL RIVER COMPOSITION:
+The final wide view should show the Vaigai River as a real place with natural surface movement and familiar Tamil Nadu riverbank context. Do not add fictional landmarks or identifiable structures that are inconsistent with Madurai. Keep any visible bridge or bank generic if exact site imagery is unavailable. The holographic equations may fade gracefully, but the river itself remains. The title and Tamil subtitle appear after the main explanatory dialogue ends, leaving enough screen time to read them. Finish with a stable frame rather than a sudden cutoff.
+
+PRODUCTION DETAIL 32 — END CARD SAFE AREA:
+Place the English title in the upper or central safe area and the Tamil line directly below it. Keep both within the landscape frame’s title-safe margins. Use clear spelling and punctuation exactly as provided. Avoid adding extra claims, hashtags, logos, citations, prize symbols, or sponsor marks. The title should remain visually dominant but not cover the water entirely. If the platform adds controls or crops the edges, the essential words should still be visible. Fade in smoothly and hold long enough to be read during the final seconds.
+
+PRODUCTION DETAIL 33 — EXPORT QUALITY:
+Export at 3840 by 2160 pixels when supported, in 16:9 landscape, at 24 fps. Keep motion smooth, avoid excessive artificial sharpening, preserve natural texture, and use a bitrate that prevents visible banding in dark clothing and blue overlays. The black shirt should retain fabric detail instead of becoming a solid featureless shape; the red shirt should not clip into a flat neon patch. Avoid frame blending that doubles the faces. Review the exported file on a normal phone screen to check text readability and voice clarity.
+
+PRODUCTION DETAIL 34 — CONTINUITY REVIEW:
+Before final export, inspect the opening, every cut, both questions, both explanations, and the final aerial shot. Confirm that Character A remains the moderately fat man from the black-shirt photograph and Character B remains the normal-built man from the red-shirt photograph. Confirm the shirts never switch. Check that the red-shirt man asks and the black-shirt man answers. Make sure no extra person or replacement face appears in the monitor reflections. Confirm that the river stays realistic and that the display labels remain legible. Correct problems before joining or publishing the clip.
+
+PRODUCTION DETAIL 35 — SCIENTIFIC REVIEW:
+Check that the distinction between computational fluid dynamics and proof is clear. Check that the historical wording treats the September announcement and October preprint as events to be scrutinised, not as a final prize decision. Check that the formalisation concern is presented specifically as a question about correspondence between written reasoning and a Lean formalisation. Do not overstate what a critique establishes. Check that no visual simulation is described as proof. The film may be educational and cinematic while staying cautious about an active mathematical discussion.
+
+PRODUCTION DETAIL 36 — TAMIL REVIEW:
+Have the Tamil dialogue and end-card subtitle proofread by a fluent Tamil speaker if possible. Preserve natural spoken Tamil rather than translating technical vocabulary into awkward literal phrases. English technical terms such as simulation, proof, and Navier–Stokes may be mixed into Tamil speech naturally, as provided. Do not add longer lines just to fill time. Check consonants, vowel marks, punctuation, and subtitle encoding. Ensure that the final audio and subtitle line convey the same meaning. Never let subtitles assign a line to the wrong character.
+
+PRODUCTION DETAIL 37 — FINAL GENERATION PRIORITY:
+The highest priorities are reference-image identity, correct speaker assignment, exactly twenty seconds of runtime, clear scientific distinction, legible post-production text, and natural Tamil lip-sync. Secondary priorities are elegant motion graphics, environmental detail, music, and additional visual polish. When the video generator cannot satisfy all constraints, preserve the identity and factual meaning first. Simplify the hologram rather than allowing faces to drift. Simplify the typography rather than fabricating equations. Reduce unnecessary movement rather than damaging the dialogue. Do not solve visual complexity by changing the characters.
+
+VALIDATION PASS 1 — FIRST TEN SECONDS:
+For the first ten seconds, the simulation display and proof display must remain separate. Start from a credible engineering workstation rather than a fantasy control room. The red-shirt man’s first question should be delivered while he is looking at the mesh. The black-shirt man answers while indicating both panels. The difference between numerical calculation and deductive proof must be conveyed visually, not only by speech. Do not turn this section into a general lecture about all fluid mechanics. Keep the three-dimensional field visually rich but simple enough for the viewer to recognise as a computer simulation.
+
+VALIDATION PASS 1 — SECOND TEN SECONDS:
+For the final ten seconds, the research wall should lead naturally into the river conclusion. The follow-up question begins the section; the black-shirt man provides a measured answer about expert verification. The final sentence should not claim that the issue is settled. Let the two men share a moment of mutual understanding, then return attention to the water. The title card should feel like the final beat of the same film, not an unrelated promotional graphic. Keep the transition fluid, visual and emotionally reassuring.
+
+VALIDATION PASS 1 — SEPARATE VOICES:
+Maintain an audible difference between the characters. The red-shirt man should sound curious and respectful; the black-shirt man should sound confident but careful. Keep both voices adult, natural, and appropriate for Tamil dialogue. Do not add subtitles for an inaudible extra line. The voice used for Character A must not suddenly be assigned to Character B. Avoid robotic stress on every English technical word. Let the Tamil sentence carry a natural rhythm and leave enough room after each question for the answer.
+
+VALIDATION PASS 1 — VISUAL CONTRAST:
+The central visual metaphor is contrast, not conflict. A colourful numerical simulation shows computed behaviour; a neutral proof diagram represents deductive reasoning. Later, the words CLAIM, VERIFICATION, and ACCEPTANCE distinguish the stages of evaluating research. These graphic elements should be easy to understand without detailed technical background. Do not portray the characters as enemies or one as a dishonest authority. The black-shirt man is helping the red-shirt man understand how science works, including why a result should be checked carefully.
+
+VALIDATION PASS 1 — NO UNSUPPORTED DATA:
+Do not add numerical values for the actual Vaigai River’s velocity, depth, flow rate, temperature, discharge, or turbulence unless reliable measurements are supplied for the exact time and location. The simulation is illustrative. Do not claim that the river was scanned or that a computational model was fitted to real measurements. The characters are discussing methods and proof, not reporting a field experiment. A realistic background does not mean the displayed simulation is an observation of the real river.
+
+VALIDATION PASS 1 — NO FALSE DOCUMENTS:
+Any manuscript icon, source card, Lean panel, or mathematical display should be a generic educational representation unless authentic material is deliberately inserted by the editor. Do not invent authors, journal names, referee statements, institutional seals, peer-review outcomes, or award announcements. If source material is shown, preserve its correct wording and date. A graphic can say ‘research announcement’ without imitating a real letter or certificate. Never fabricate a screenshot that appears to be an official scientific endorsement.
+
+VALIDATION PASS 1 — PRECISE TIME CONTROL:
+Use the timecode as a hard constraint. The video begins at 00:00 and ends at 00:20. No extra intro, logo animation, black tail, or extended credits may push it beyond twenty seconds. Dialogue windows should fit within the specified segments. The final title card may begin during the last seconds as the aerial view rises, but it must not add a separate segment after the ending. Keep transitions inside the assigned windows, and ensure the exported duration is verified rather than estimated from the timeline preview.
+
+VALIDATION PASS 1 — NATURAL PERFORMANCE:
+Both characters should behave like real people having a focused scientific conversation in a public riverside setting. The red-shirt man should point naturally and keep his shoulders relaxed. The black-shirt man should answer without exaggerated lecturing gestures. Their feet should remain firmly on the ground, their hands should obey plausible anatomy, and their gaze should track the person or display they are addressing.
+Identities locked.
